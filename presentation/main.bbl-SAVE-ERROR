@@ -19,6 +19,71 @@
 
 \refsection{0}
   \datalist[entry]{nyt/global//global/global/global}
+    \entry{fullerSupernettingAddressAssignment1992}{report}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=1b5b5435886729ac1e73db0819ca958b}{%
+           family={Fuller},
+           familyi={F\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=317adb20c6b3ea65befa45a219f6410d}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=89b432fa4bb24ef9e7312fd806fb771b}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=317b51f12b0cfe7d4f414873a8b3df0b}{%
+           family={Varadhan},
+           familyi={V\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {RFC Editor}%
+      }
+      \strng{namehash}{a74cd0492dfe9cd7c7173a72c6ffc0eb}
+      \strng{fullhash}{c8bf7f87506e9f7156b98ce3509770c9}
+      \strng{fullhashraw}{c8bf7f87506e9f7156b98ce3509770c9}
+      \strng{bibnamehash}{c8bf7f87506e9f7156b98ce3509770c9}
+      \strng{authorbibnamehash}{c8bf7f87506e9f7156b98ce3509770c9}
+      \strng{authornamehash}{a74cd0492dfe9cd7c7173a72c6ffc0eb}
+      \strng{authorfullhash}{c8bf7f87506e9f7156b98ce3509770c9}
+      \strng{authorfullhashraw}{c8bf7f87506e9f7156b98ce3509770c9}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This memo discusses strategies for address assignment of the existing IP address space with a view to conserve the address space and stem the explosive growth of routing tables in default-route-free routers run by transit routing domain providers.}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{RFC1338}
+      \field{shorttitle}{Supernetting}
+      \field{title}{Supernetting: An {{Address Assignment}} and {{Aggregation Strategy}}}
+      \field{type}{techreport}
+      \field{urlday}{16}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{year}{1992}
+      \field{urldateera}{ce}
+      \field{pages}{RFC1338}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.17487/rfc1338
+      \endverb
+      \verb{file}
+      \verb /home/joar/Zotero/storage/BFPKGZPC/Fuller et al. - 1992 - Supernetting an Address Assignment and Aggregatio.pdf
+      \endverb
+    \endentry
     \entry{IPv4AddressReport}{misc}{}{}
       \field{sortinit}{I}
       \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}

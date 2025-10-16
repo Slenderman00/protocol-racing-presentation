@@ -5,7 +5,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage{babel}
 
-\usepackage[backend=biber,style=authoryear,maxcitenames=2]{biblatex}
+\usepackage[backend=biber,style=authoryear,maxcitenames=2,maxbibnames=99]{biblatex}
 \addbibresource{Library.bib}
 
 \usepackage{graphicx}
@@ -87,12 +87,23 @@
 
     \def\ipv6LaunchX{8.3} % align with 2012 Happy Eyeballs; adjust slightly if needed
     \draw[thick] (\ipv6LaunchX, \lowerY-0.1) -- (\ipv6LaunchX, \lowerY+0.1);
-    \node[above=3mm, text width=3cm] at (\ipv6LaunchX, \lowerY) {World IPv6 Launch Day};
+    \node[above=2mm, text width=3cm] at (\ipv6LaunchX, \lowerY) {World IPv6 Launch Day};
 \end{tikzpicture}
 
 \vspace{0.4cm}
 \footnotesize
 \textit{Timeline of stopgap measures from Supernetting (aggregation strategy) to IPv6 'v2'}
+\end{frame}
+
+\begin{frame}
+\textit{It does not attempt to solve the third problem,
+which is of a more long-term nature, but instead endeavors to ease
+enough of the short to mid-term difficulties to allow the Internet to
+continue to function efficiently while progress is made on a longer-
+term solution.}
+\centering
+\\
+{\tiny Source: \parencite{fullerSupernettingAddressAssignment1992}}
 \end{frame}
 
 \section{Main}

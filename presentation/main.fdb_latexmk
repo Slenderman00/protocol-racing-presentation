@@ -1,20 +1,23 @@
 # Fdb version 4
-["biber main"] 0 "main.bcf" "main.bbl" "main" 1760636702.40663 -1
-  "Library.bib" 1760621721.4277 83898 cc47a120a0e4f43d215d9bb7b0e5828f ""
-  "main.bcf" 1760636702.34526 108609 a3fffa3723283a7fc61aadf1ff2b5018 "pdflatex"
+["biber main"] 1760637657.02906 "main.bcf" "main.bbl" "main" 1760637695.05072 0
+  "Library.bib" 1760637524.52551 85623 0c57c211d5e40528878d8da952a75781 ""
+  "main.bcf" 1760637694.98692 108707 1f15070f5e5166051d73504bc314cc5c "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1760636701.18583 "/home/joar/Documents/protocol-racing-presentation/presentation/main.tex" "main.pdf" "main" 1760636702.40681 0
-  "/home/joar/Documents/protocol-racing-presentation/presentation/main.tex" 1760636700.98161 3366 93ae8d8a535e1fa3d18f15d464692707 ""
+["pdflatex"] 1760637693.84692 "/home/joar/Documents/protocol-racing-presentation/presentation/main.tex" "main.pdf" "main" 1760637695.0509 0
+  "/home/joar/Documents/protocol-racing-presentation/presentation/main.tex" 1760637693.57186 3768 63d9f50244255bea13b31905da38d163 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1755987285 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/noto/a_mz6bs5.enc" 1755987285 2961 79587bd8c23e4df860591c6873219579 ""
+  "/usr/share/texmf-dist/fonts/enc/dvips/noto/a_t3opuj.enc" 1755987285 3453 23395bcccb1def901c8ab3091269fb31 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1755987285 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/google/noto/NotoSans-Bold-tlf-t1--base.tfm" 1755987285 1684 6f7b81b0c0cc306a85d9b23b8b0beaf3 ""
   "/usr/share/texmf-dist/fonts/tfm/google/noto/NotoSans-Bold-tlf-t1.tfm" 1755987285 14188 73bdec92ed7cc94f72d30c1a7e92f9c0 ""
   "/usr/share/texmf-dist/fonts/tfm/google/noto/NotoSans-Italic-tlf-t1--base.tfm" 1755987285 1876 4ec28c75e9e5206aed3ff92c044cce65 ""
   "/usr/share/texmf-dist/fonts/tfm/google/noto/NotoSans-Italic-tlf-t1.tfm" 1755987285 14444 8a6489aa8f874083e174b4571b7f75f0 ""
+  "/usr/share/texmf-dist/fonts/tfm/google/noto/NotoSans-Regular-tlf-sc-t1--base.tfm" 1755987285 1660 19bd53bf35888b77abc05e64b08db1b5 ""
+  "/usr/share/texmf-dist/fonts/tfm/google/noto/NotoSans-Regular-tlf-sc-t1.tfm" 1755987285 18712 5c80f009741e58b738bb01115f3904d7 ""
   "/usr/share/texmf-dist/fonts/tfm/google/noto/NotoSans-Regular-tlf-t1--base.tfm" 1755987285 1672 897176ae11d7875e11a11da95e359c49 ""
   "/usr/share/texmf-dist/fonts/tfm/google/noto/NotoSans-Regular-tlf-t1.tfm" 1755987285 14176 d32e25c673a6d1ddade9be4ef372b96f ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecss1095.tfm" 1755987285 3584 8ece407347b270c252c46fdfaef5a9ef ""
@@ -51,6 +54,7 @@
   "/usr/share/texmf-dist/fonts/type1/public/notomath/NotoMathMI.pfb" 1755987285 39141 6b7d30d3b0f66c46f19914e665c28eeb ""
   "/usr/share/texmf-dist/fonts/vf/google/noto/NotoSans-Bold-tlf-t1.vf" 1755987285 1712 70cc66b0eeff551bfaba649103ea338a ""
   "/usr/share/texmf-dist/fonts/vf/google/noto/NotoSans-Italic-tlf-t1.vf" 1755987285 1716 058339f509dc339a28a4df20e0e015de ""
+  "/usr/share/texmf-dist/fonts/vf/google/noto/NotoSans-Regular-tlf-sc-t1.vf" 1755987285 1728 39c86989bc596ce834939b5930ad2f20 ""
   "/usr/share/texmf-dist/fonts/vf/google/noto/NotoSans-Regular-tlf-t1.vf" 1755987285 1716 4cfc115478ce810e6c4572ceb8f18959 ""
   "/usr/share/texmf-dist/fonts/vf/public/newtx/ntxsy.vf" 1755987285 1792 7cf99effbd74f7851ca7683a6d12b685 ""
   "/usr/share/texmf-dist/fonts/vf/public/notomath/notomi.vf" 1755987285 2352 ff539eda9b579f1b536d2fc023d7e8f6 ""
@@ -291,13 +295,13 @@
   "beamerthemeUiO.sty" 1717188983 10885 0cc1b1c4fc14901253dbb68369f13e9e ""
   "fig09.png" 1760621349.22542 5519 04a2c0e39b35779071bb9639fd689665 ""
   "image.png" 1760623452.90173 82826 74769b583d332a25a3f0619bcbd9078f ""
-  "main.aux" 1760636702.34326 3050 7c77d8e867d1207ac64301293f3b6f54 "pdflatex"
-  "main.bbl" 1760635404.29755 1129 dde5c209239a6c199b0e04b804e73aa6 "biber main"
-  "main.nav" 1760636702.34692 1639 1d9409e237f0f71e22d5b7c6819386f1 "pdflatex"
-  "main.out" 1760636702.34326 366 cd41407acdb7ae6485844d2692bf4b23 "pdflatex"
-  "main.run.xml" 1760636702.34692 2277 383a8fec8afe5697d2a2cb91c7b263f9 "pdflatex"
-  "main.tex" 1760636700.98161 3366 93ae8d8a535e1fa3d18f15d464692707 ""
-  "main.toc" 1760636702.34692 161 8ec9628cea526c133e6026697055d58d "pdflatex"
+  "main.aux" 1760637694.98492 3443 24d8cdb46746dd7c096ed3fcfc548d07 "pdflatex"
+  "main.bbl" 1760637657.41257 3836 a37ce3cf174aed738770fe2545c08170 "biber main"
+  "main.nav" 1760637694.98859 1731 a8f04d06aad34934bbda658d377eae80 "pdflatex"
+  "main.out" 1760637694.98492 366 cd41407acdb7ae6485844d2692bf4b23 "pdflatex"
+  "main.run.xml" 1760637694.98859 2277 383a8fec8afe5697d2a2cb91c7b263f9 "pdflatex"
+  "main.tex" 1760637693.57186 3768 63d9f50244255bea13b31905da38d163 ""
+  "main.toc" 1760637694.98859 161 d6283afdc310e861e76ce01e219febd2 "pdflatex"
   "uio-beamer-segl-neg.png" 1660058590 124250 99cecf45bd904577e8e9105b66975d74 ""
   "uio-fp-navn-bm.png" 1651483664 71584 136ff3323c2af1702f8ed759446f35c2 ""
   (generated)
