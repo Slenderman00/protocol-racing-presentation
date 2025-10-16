@@ -1,3 +1,4 @@
+\babel@toc {nil}{}\relax 
 \beamer@sectionintoc {1}{A bit of history}{3}{0}{1}
-\beamer@sectionintoc {2}{Main}{4}{0}{2}
-\beamer@sectionintoc {3}{Wrap-up}{5}{0}{3}
+\beamer@sectionintoc {2}{Main}{5}{0}{2}
+\beamer@sectionintoc {3}{Wrap-up}{6}{0}{3}

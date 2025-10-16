@@ -1,0 +1,41 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{IPv4AddressReport}{misc}{}{}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://ipv4.potaroo.net/}
+      \field{title}{{{IPv4 Address Report}}}
+      \field{urlday}{16}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/joar/Zotero/storage/NIW2QZDX/ipv4.potaroo.net.html
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
