@@ -26,18 +26,25 @@
 \headcommand {\beamer@framepages {10}{10}}
 \headcommand {\beamer@sectionpages {9}{10}}
 \headcommand {\beamer@subsectionpages {9}{10}}
-\headcommand {\sectionentry {3}{Wrap-up}{11}{Wrap-up}{0}}
+\headcommand {\sectionentry {3}{The solution}{11}{The solution}{0}}
 \headcommand {\slideentry {3}{0}{1}{11/11}{}{0}}
 \headcommand {\beamer@framepages {11}{11}}
-\headcommand {\beamer@sectionpages {11}{11}}
-\headcommand {\beamer@subsectionpages {11}{11}}
-\headcommand {\sectionentry {4}{\translate {References}}{12}{\translate {References}}{0}}
-\headcommand {\slideentry {4}{0}{0}{12/12}{}{0}}
+\headcommand {\slideentry {3}{0}{2}{12/12}{}{0}}
 \headcommand {\beamer@framepages {12}{12}}
-\headcommand {\beamer@partpages {1}{12}}
-\headcommand {\beamer@subsectionpages {11}{12}}
 \headcommand {\beamer@sectionpages {11}{12}}
-\headcommand {\beamer@documentpages {12}}
-\headcommand {\gdef \inserttotalframenumber {11}}
+\headcommand {\beamer@subsectionpages {11}{12}}
+\headcommand {\sectionentry {4}{Wrap-up}{13}{Wrap-up}{0}}
 \headcommand {\slideentry {4}{0}{1}{13/13}{}{0}}
 \headcommand {\beamer@framepages {13}{13}}
+\headcommand {\beamer@sectionpages {13}{13}}
+\headcommand {\beamer@subsectionpages {13}{13}}
+\headcommand {\sectionentry {5}{\translate {References}}{14}{\translate {References}}{0}}
+\headcommand {\slideentry {5}{0}{0}{14/14}{}{0}}
+\headcommand {\beamer@framepages {14}{14}}
+\headcommand {\beamer@partpages {1}{14}}
+\headcommand {\beamer@subsectionpages {13}{14}}
+\headcommand {\beamer@sectionpages {13}{14}}
+\headcommand {\beamer@documentpages {14}}
+\headcommand {\gdef \inserttotalframenumber {13}}
+\headcommand {\slideentry {5}{0}{1}{15/15}{}{0}}
+\headcommand {\beamer@framepages {15}{15}}

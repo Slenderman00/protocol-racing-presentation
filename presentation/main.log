@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.9.14)  17 OCT 2025 14:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.9.14)  17 OCT 2025 17:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1279,7 +1279,7 @@ Package biblatex Info: Reference segment=0 on input line 23.
  (./main.nav)
 LaTeX Font Info:    Font shape `T1/NotoSans-TLF/m/n' will be
 (Font)              scaled to size 5.99927pt on input line 23.
-<uio-fp-navn-bm.png, id=29, 628.5081pt x 127.677pt>
+<uio-fp-navn-bm.png, id=33, 628.5081pt x 127.677pt>
 File: uio-fp-navn-bm.png Graphic file (type png)
 <use uio-fp-navn-bm.png>
 Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 23.
@@ -1366,12 +1366,12 @@ LaTeX Font Info:    Font shape `T1/NotoSans-TLF/m/it' will be
 (Font)              scaled to size 7.99902pt on input line 25.
 LaTeX Font Info:    Font shape `T1/NotoSans-TLF/m/it' will be
 (Font)              scaled to size 6.09926pt on input line 25.
-<image.png, id=32, 420.1296pt x 555.0336pt>
+<image.png, id=36, 420.1296pt x 555.0336pt>
 File: image.png Graphic file (type png)
 <use image.png>
 Package pdftex.def Info: image.png  used on input line 25.
 (pdftex.def)             Requested size: 197.71095pt x 261.19612pt.
-<uio-beamer-segl-neg.png, id=33, 236.3229pt x 237.7683pt>
+<uio-beamer-segl-neg.png, id=37, 236.3229pt x 237.7683pt>
 File: uio-beamer-segl-neg.png Graphic file (type png)
 <use uio-beamer-segl-neg.png>
 Package pdftex.def Info: uio-beamer-segl-neg.png  used on input line 25.
@@ -1418,7 +1418,7 @@ File: uio-fp-navn-bm.png Graphic file (type png)
 <use uio-fp-navn-bm.png>
 Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 48.
 (pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
-<fig09.png, id=67, 602.25pt x 361.35pt>
+<fig09.png, id=73, 602.25pt x 361.35pt>
 File: fig09.png Graphic file (type png)
 <use fig09.png>
 Package pdftex.def Info: fig09.png  used on input line 48.
@@ -1538,7 +1538,7 @@ File: uio-fp-navn-bm.png Graphic file (type png)
 <use uio-fp-navn-bm.png>
 Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 149.
 (pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
-<fig2.jpg, id=112, 1075.01625pt x 725.71124pt>
+<fig2.jpg, id=118, 1075.01625pt x 725.71124pt>
 File: fig2.jpg Graphic file (type jpg)
 <use fig2.jpg>
 Package pdftex.def Info: fig2.jpg  used on input line 149.
@@ -1568,7 +1568,7 @@ File: uio-fp-navn-bm.png Graphic file (type png)
 <use uio-fp-navn-bm.png>
 Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 154.
 (pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
-<nohe.pdf, id=122, 307.90031pt x 98.61844pt>
+<nohe.pdf, id=128, 307.90031pt x 98.61844pt>
 File: nohe.pdf Graphic file (type pdf)
 <use nohe.pdf>
 Package pdftex.def Info: nohe.pdf  used on input line 154.
@@ -1584,31 +1584,62 @@ Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 154.
  <./nohe.pdf>]
 File: uio-fp-navn-bm.png Graphic file (type png)
 <use uio-fp-navn-bm.png>
-Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 162.
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 160.
 (pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
-LaTeX Font Info:    Font shape `T1/NotoSans-TLF/m/n' will be
-(Font)              scaled to size 17.27788pt on input line 162.
 
 
 File: uio-fp-navn-bm.png Graphic file (type png)
 <use uio-fp-navn-bm.png>
-Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 162.
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 160.
 (pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
 [11
 
 ]
 File: uio-fp-navn-bm.png Graphic file (type png)
 <use uio-fp-navn-bm.png>
-Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 166.
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 165.
+(pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
+<withhe.pdf, id=172, 307.90031pt x 105.39375pt>
+File: withhe.pdf Graphic file (type pdf)
+<use withhe.pdf>
+Package pdftex.def Info: withhe.pdf  used on input line 165.
+(pdftex.def)             Requested size: 358.50229pt x 122.72319pt.
+
+
+File: uio-fp-navn-bm.png Graphic file (type png)
+<use uio-fp-navn-bm.png>
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 165.
+(pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
+[12
+
+ <./withhe.pdf>]
+File: uio-fp-navn-bm.png Graphic file (type png)
+<use uio-fp-navn-bm.png>
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 173.
+(pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
+LaTeX Font Info:    Font shape `T1/NotoSans-TLF/m/n' will be
+(Font)              scaled to size 17.27788pt on input line 173.
+
+
+File: uio-fp-navn-bm.png Graphic file (type png)
+<use uio-fp-navn-bm.png>
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 173.
+(pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
+[13
+
+]
+File: uio-fp-navn-bm.png Graphic file (type png)
+<use uio-fp-navn-bm.png>
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 177.
 (pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\translate ' on input line 166.
+(hyperref)                removing `\translate ' on input line 177.
 
 
 Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'fullerSupernettingAddressAssignment1992' on input line 166.
+(biblatex)                at entry 'fullerSupernettingAddressAssignment1992' on input line 177.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdatelong.
@@ -1619,31 +1650,13 @@ Package biblatex Warning: Using fallback definition for \mkbibdatelong.
 
 
 Package biblatex Warning: Bibliography string 'june' untranslated
-(biblatex)                at entry 'fullerSupernettingAddressAssignment1992' on input line 166.
+(biblatex)                at entry 'fullerSupernettingAddressAssignment1992' on input line 177.
 
 LaTeX Font Info:    Font shape `T1/NotoSans-TLF/m/sc' will be
-(Font)              scaled to size 10.94865pt on input line 166.
+(Font)              scaled to size 10.94865pt on input line 177.
 
 Package biblatex Warning: Bibliography string 'urlseen' untranslated
-(biblatex)                at entry 'fullerSupernettingAddressAssignment1992' on input line 166.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Bibliography string 'urlseen' untranslated
-(biblatex)                at entry 'IPv4AddressReport' on input line 166.
+(biblatex)                at entry 'fullerSupernettingAddressAssignment1992' on input line 177.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
@@ -1661,7 +1674,25 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 Package biblatex Warning: Bibliography string 'urlseen' untranslated
-(biblatex)                at entry 'ISPColumnNovember' on input line 166.
+(biblatex)                at entry 'IPv4AddressReport' on input line 177.
+
+
+Package biblatex Warning: Using fallback definition for \mkbibdateshort.
+(biblatex)                The command should be defined in the .lbx file.
+(biblatex)                If you see this message, the .lbx file could not be
+(biblatex)                loaded, is faulty or does not contain a definition
+(biblatex)                for \mkbibdateshort.
+
+
+Package biblatex Warning: Using fallback definition for \mkbibdateshort.
+(biblatex)                The command should be defined in the .lbx file.
+(biblatex)                If you see this message, the .lbx file could not be
+(biblatex)                loaded, is faulty or does not contain a definition
+(biblatex)                for \mkbibdateshort.
+
+
+Package biblatex Warning: Bibliography string 'urlseen' untranslated
+(biblatex)                at entry 'ISPColumnNovember' on input line 177.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
@@ -1672,7 +1703,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'nordmarkTransitionMechanismsIPv61996' on input line 166.
+(biblatex)                at entry 'nordmarkTransitionMechanismsIPv61996' on input line 177.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdatelong.
@@ -1683,11 +1714,11 @@ Package biblatex Warning: Using fallback definition for \mkbibdatelong.
 
 
 Package biblatex Warning: Bibliography string 'april' untranslated
-(biblatex)                at entry 'nordmarkTransitionMechanismsIPv61996' on input line 166.
+(biblatex)                at entry 'nordmarkTransitionMechanismsIPv61996' on input line 177.
 
 
 Package biblatex Warning: Bibliography string 'urlseen' untranslated
-(biblatex)                at entry 'nordmarkTransitionMechanismsIPv61996' on input line 166.
+(biblatex)                at entry 'nordmarkTransitionMechanismsIPv61996' on input line 177.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
@@ -1700,9 +1731,9 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 File: uio-fp-navn-bm.png Graphic file (type png)
 <use uio-fp-navn-bm.png>
-Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 166.
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 177.
 (pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
-[12
+[14
 
 {/usr/share/texmf-dist/fonts/enc/dvips/noto/a_t3opuj.enc} </usr/share/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>]
 \tf@nav=\write7
@@ -1716,11 +1747,11 @@ Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 166.
 
 File: uio-fp-navn-bm.png Graphic file (type png)
 <use uio-fp-navn-bm.png>
-Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 167.
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 178.
 (pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
  (./main.toc)
 
-[13
+[15
 
 
 ] (./main.aux)
@@ -1729,24 +1760,24 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: FDB7CC1E2855A1C0EF334695DFAE53BF;495.
+(rerunfilecheck)             Checksum: DA7AB6D1DB944AB1314ACDC1179597D2;601.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 38673 strings out of 475171
- 774849 string characters out of 5767095
+ 38693 strings out of 475171
+ 775107 string characters out of 5767095
  1547727 words of memory out of 5000000
- 60923 multiletter control sequences out of 15000+600000
+ 60938 multiletter control sequences out of 15000+600000
  651033 words of font info for 109 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  128i,16n,123p,512b,1775s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/google/noto/NotoSans-Bold.pfb></usr/share/texmf-dist/fonts/type1/google/noto/NotoSans-Italic.pfb></usr/share/texmf-dist/fonts/type1/google/noto/NotoSans-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb></usr/share/texmf-dist/fonts/type1/public/newtx/txmiaX.pfb></usr/share/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
-Output written on main.pdf (13 pages, 557674 bytes).
+Output written on main.pdf (15 pages, 572962 bytes).
 PDF statistics:
- 210 PDF objects out of 1000 (max. 8388607)
- 148 compressed objects within 2 object streams
- 35 named destinations out of 1000 (max. 500000)
- 105 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 263 PDF objects out of 1000 (max. 8388607)
+ 182 compressed objects within 2 object streams
+ 40 named destinations out of 1000 (max. 500000)
+ 118 words of extra memory for PDF output out of 10000 (max. 10000000)
 
