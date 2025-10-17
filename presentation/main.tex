@@ -35,7 +35,7 @@
     \item Written for DARPA in 1981 (before the IETF existed)
     \item Designed to interconnect different packet-switched networks (ARPANET, SATNET, university nets)
     \item Created under the assumption that every device would have its own globally unique, routable address
-    \item 32-bit address space — \(2^{32} = 4{,}294{,}967{,}296\) possible addresses
+    \item 32-bit address space — \(2^{32} = 4\ 294\ 967\ 296\) possible addresses
     \item Sounds like a lot\ldots\ until you remember that there are 8 billion people alive
   \end{itemize}
 \end{frame}
@@ -85,7 +85,7 @@
         \node[below=3mm, text width=2.4cm] at (\xl, \lowerY) {\txt};
     }
 
-    \def\ipv6LaunchX{8.3} % align with 2012 Happy Eyeballs; adjust slightly if needed
+    \def\ipv6LaunchX{8.3}
     \draw[thick] (\ipv6LaunchX, \lowerY-0.1) -- (\ipv6LaunchX, \lowerY+0.1);
     \node[above=2mm, text width=3cm] at (\ipv6LaunchX, \lowerY) {World IPv6 Launch Day};
 \end{tikzpicture}
@@ -96,19 +96,57 @@
 \end{frame}
 
 \begin{frame}
+\small
+\begin{block}{\textit{RFC 1338 — Supernetting: an Address Assignment and Aggregation Strategy}}
+\vspace{0.5em}
 \textit{It does not attempt to solve the third problem,
 which is of a more long-term nature, but instead endeavors to ease
 enough of the short to mid-term difficulties to allow the Internet to
 continue to function efficiently while progress is made on a longer-
 term solution.}
-
+\end{block}
 (The third problem being IPv4 exhaustion)
 \centering
 \\
 {\tiny Source: \parencite{fullerSupernettingAddressAssignment1992}}
 \end{frame}
 
-\section{Main}
+\begin{frame}{IPv6}
+  \begin{itemize}
+    \item \textbf{RFC 2460} – \emph{Internet Protocol, Version 6}
+    \item Finished in 1998 later updated in 2017
+    \item Designed to fix the issues of IPv4
+    \item Increases the address space from 32-bit to 128-bit
+    \item 340 282 366 920 938 463 463 374 607 431 768 211 456 addresses
+    \item Allows for some cool things like NAT64
+  \end{itemize}
+\end{frame}
+
+\begin{frame}{Dual-Stack}
+\small
+\begin{block}{\textit{RFC 1933 — Transition Mechanisms for IPv6 Hosts and Routers}}
+\vspace{0.5em}
+\textit{The most straightforward way for IPv6 nodes to remain compatible with
+IPv4-only nodes is by providing a complete IPv4 implementation. IPv6
+nodes that provide a complete IPv4 implementation in addition to
+their IPv6 implementation are called "IPv6/IPv4 nodes." IPv6/IPv4
+nodes have the ability to send and receive both IPv4 and IPv6
+packets. They can directly interoperate with IPv4 nodes using IPv4
+packets, and also directly interoperate with IPv6 nodes using IPv6
+packets.}
+\end{block}
+\centering
+{\tiny Source: \parencite{nordmarkTransitionMechanismsIPv61996}}
+\end{frame}
+
+\section{The issue with dual-stacking}
+\begin{frame}{IPv6 and IPv4 failure rate}
+  \centering
+  \includegraphics[width=0.7\textwidth]{fig2.jpg}
+  \\
+  {\tiny Source: \parencite{ISPColumnNovember}}
+\end{frame}
+
 \begin{frame}{Key Idea}
   \begin{block}{Takeaway}
     Keep each slide focused on one idea.

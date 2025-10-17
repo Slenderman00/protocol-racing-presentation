@@ -100,6 +100,68 @@
       \verb /home/joar/Zotero/storage/NIW2QZDX/ipv4.potaroo.net.html
       \endverb
     \endentry
+    \entry{ISPColumnNovember}{misc}{}{}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://www.potaroo.net/ispcol/2015-11/v6perf.html}
+      \field{title}{{{ISP Column}} - {{November}} 2015}
+      \field{urlday}{17}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{nordmarkTransitionMechanismsIPv61996}{report}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2dfccd71bed900b47bfda5d2ada65f75}{%
+           family={Nordmark},
+           familyi={N\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=858ef53b4769466cb64229683d2fb36f}{%
+           family={Gilligan},
+           familyi={G\bibinitperiod},
+           given={Robert\bibnamedelima E.},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Internet Engineering Task Force}%
+      }
+      \strng{namehash}{ccf5c622161763926806204c01a2ca08}
+      \strng{fullhash}{ccf5c622161763926806204c01a2ca08}
+      \strng{fullhashraw}{ccf5c622161763926806204c01a2ca08}
+      \strng{bibnamehash}{ccf5c622161763926806204c01a2ca08}
+      \strng{authorbibnamehash}{ccf5c622161763926806204c01a2ca08}
+      \strng{authornamehash}{ccf5c622161763926806204c01a2ca08}
+      \strng{authorfullhash}{ccf5c622161763926806204c01a2ca08}
+      \strng{authorfullhashraw}{ccf5c622161763926806204c01a2ca08}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This document specifies IPv4 compatibility mechanisms that can be implemented by IPv6 hosts and routers. [STANDARDS-TRACK]}
+      \field{month}{4}
+      \field{number}{RFC 1933}
+      \field{title}{Transition {{Mechanisms}} for {{IPv6 Hosts}} and {{Routers}}}
+      \field{type}{Request for {{Comments}}}
+      \field{urlday}{17}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{year}{1996}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.17487/RFC1933
+      \endverb
+      \verb{file}
+      \verb /home/joar/Zotero/storage/ECLXQRTS/Nordmark and Gilligan - 1996 - Transition Mechanisms for IPv6 Hosts and Routers.pdf
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

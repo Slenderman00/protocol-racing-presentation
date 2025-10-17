@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.9.14)  16 OCT 2025 20:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.9.14)  17 OCT 2025 12:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1418,7 +1418,7 @@ File: uio-fp-navn-bm.png Graphic file (type png)
 <use uio-fp-navn-bm.png>
 Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 48.
 (pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
-<fig09.png, id=68, 602.25pt x 361.35pt>
+<fig09.png, id=67, 602.25pt x 361.35pt>
 File: fig09.png Graphic file (type png)
 <use fig09.png>
 Package pdftex.def Info: fig09.png  used on input line 48.
@@ -1465,15 +1465,21 @@ Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 96.
 ]
 File: uio-fp-navn-bm.png Graphic file (type png)
 <use uio-fp-navn-bm.png>
-Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 109.
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 112.
 (pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
+LaTeX Font Info:    Font shape `T1/NotoSans-TLF/m/n' will be
+(Font)              scaled to size 11.99854pt on input line 112.
+LaTeX Font Info:    Font shape `T1/NotoSans-TLF/m/it' will be
+(Font)              scaled to size 11.99854pt on input line 112.
+LaTeX Font Info:    Font shape `T1/NotoSans-TLF/m/it' will be
+(Font)              scaled to size 9.99878pt on input line 112.
 
 
 Package biblatex Warning: Bibliography string 'andothers' untranslated
-(biblatex)                at entry 'fullerSupernettingAddressAssignment1992' on input line 109.
+(biblatex)                at entry 'fullerSupernettingAddressAssignment1992' on input line 112.
 
 LaTeX Font Info:    Font shape `T1/NotoSans-TLF/b/n' will be
-(Font)              scaled to size 5.99927pt on input line 109.
+(Font)              scaled to size 5.99927pt on input line 112.
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 (biblatex)                The command should be defined in the .lbx file.
@@ -1485,53 +1491,119 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 File: uio-fp-navn-bm.png Graphic file (type png)
 <use uio-fp-navn-bm.png>
-Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 109.
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 112.
 (pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
 [6
 
 ]
 File: uio-fp-navn-bm.png Graphic file (type png)
 <use uio-fp-navn-bm.png>
-Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 116.
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 123.
 (pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
-LaTeX Font Info:    Font shape `T1/NotoSans-TLF/m/n' will be
-(Font)              scaled to size 11.99854pt on input line 116.
 
 
 File: uio-fp-navn-bm.png Graphic file (type png)
 <use uio-fp-navn-bm.png>
-Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 116.
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 123.
 (pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
 [7
 
 ]
 File: uio-fp-navn-bm.png Graphic file (type png)
 <use uio-fp-navn-bm.png>
-Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 124.
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 140.
 (pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
-LaTeX Font Info:    Font shape `T1/NotoSans-TLF/m/n' will be
-(Font)              scaled to size 17.27788pt on input line 124.
+
+
+Package biblatex Warning: Bibliography string 'and' untranslated
+(biblatex)                at entry 'nordmarkTransitionMechanismsIPv61996' on input line 140.
+
+
+Package biblatex Warning: Using fallback definition for \mkbibdateshort.
+(biblatex)                The command should be defined in the .lbx file.
+(biblatex)                If you see this message, the .lbx file could not be
+(biblatex)                loaded, is faulty or does not contain a definition
+(biblatex)                for \mkbibdateshort.
+
 
 
 File: uio-fp-navn-bm.png Graphic file (type png)
 <use uio-fp-navn-bm.png>
-Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 124.
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 140.
 (pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
 [8
 
 ]
 File: uio-fp-navn-bm.png Graphic file (type png)
 <use uio-fp-navn-bm.png>
-Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 128.
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 148.
+(pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
+<fig2.jpg, id=112, 1075.01625pt x 725.71124pt>
+File: fig2.jpg Graphic file (type jpg)
+<use fig2.jpg>
+Package pdftex.def Info: fig2.jpg  used on input line 148.
+(pdftex.def)             Requested size: 278.83578pt x 188.22646pt.
+
+
+Package biblatex Warning: Using fallback definition for \mkbibdateshort.
+(biblatex)                The command should be defined in the .lbx file.
+(biblatex)                If you see this message, the .lbx file could not be
+(biblatex)                loaded, is faulty or does not contain a definition
+(biblatex)                for \mkbibdateshort.
+
+
+Overfull \vbox (12.48616pt too high) detected at line 148
+ []
+
+
+
+File: uio-fp-navn-bm.png Graphic file (type png)
+<use uio-fp-navn-bm.png>
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 148.
+(pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
+[9
+
+ <./fig2.jpg>]
+File: uio-fp-navn-bm.png Graphic file (type png)
+<use uio-fp-navn-bm.png>
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 154.
+(pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
+
+
+File: uio-fp-navn-bm.png Graphic file (type png)
+<use uio-fp-navn-bm.png>
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 154.
+(pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
+[10
+
+]
+File: uio-fp-navn-bm.png Graphic file (type png)
+<use uio-fp-navn-bm.png>
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 162.
+(pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
+LaTeX Font Info:    Font shape `T1/NotoSans-TLF/m/n' will be
+(Font)              scaled to size 17.27788pt on input line 162.
+
+
+File: uio-fp-navn-bm.png Graphic file (type png)
+<use uio-fp-navn-bm.png>
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 162.
+(pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
+[11
+
+]
+File: uio-fp-navn-bm.png Graphic file (type png)
+<use uio-fp-navn-bm.png>
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 166.
 (pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\translate ' on input line 128.
+(hyperref)                removing `\translate ' on input line 166.
 
 
 Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'fullerSupernettingAddressAssignment1992' on input line 128.
+(biblatex)                at entry 'fullerSupernettingAddressAssignment1992' on input line 166.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdatelong.
@@ -1542,13 +1614,13 @@ Package biblatex Warning: Using fallback definition for \mkbibdatelong.
 
 
 Package biblatex Warning: Bibliography string 'june' untranslated
-(biblatex)                at entry 'fullerSupernettingAddressAssignment1992' on input line 128.
+(biblatex)                at entry 'fullerSupernettingAddressAssignment1992' on input line 166.
 
 LaTeX Font Info:    Font shape `T1/NotoSans-TLF/m/sc' will be
-(Font)              scaled to size 10.94865pt on input line 128.
+(Font)              scaled to size 10.94865pt on input line 166.
 
 Package biblatex Warning: Bibliography string 'urlseen' untranslated
-(biblatex)                at entry 'fullerSupernettingAddressAssignment1992' on input line 128.
+(biblatex)                at entry 'fullerSupernettingAddressAssignment1992' on input line 166.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
@@ -1566,7 +1638,51 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 Package biblatex Warning: Bibliography string 'urlseen' untranslated
-(biblatex)                at entry 'IPv4AddressReport' on input line 128.
+(biblatex)                at entry 'IPv4AddressReport' on input line 166.
+
+
+Package biblatex Warning: Using fallback definition for \mkbibdateshort.
+(biblatex)                The command should be defined in the .lbx file.
+(biblatex)                If you see this message, the .lbx file could not be
+(biblatex)                loaded, is faulty or does not contain a definition
+(biblatex)                for \mkbibdateshort.
+
+
+Package biblatex Warning: Using fallback definition for \mkbibdateshort.
+(biblatex)                The command should be defined in the .lbx file.
+(biblatex)                If you see this message, the .lbx file could not be
+(biblatex)                loaded, is faulty or does not contain a definition
+(biblatex)                for \mkbibdateshort.
+
+
+Package biblatex Warning: Bibliography string 'urlseen' untranslated
+(biblatex)                at entry 'ISPColumnNovember' on input line 166.
+
+
+Package biblatex Warning: Using fallback definition for \mkbibdateshort.
+(biblatex)                The command should be defined in the .lbx file.
+(biblatex)                If you see this message, the .lbx file could not be
+(biblatex)                loaded, is faulty or does not contain a definition
+(biblatex)                for \mkbibdateshort.
+
+
+Package biblatex Warning: Bibliography string 'and' untranslated
+(biblatex)                at entry 'nordmarkTransitionMechanismsIPv61996' on input line 166.
+
+
+Package biblatex Warning: Using fallback definition for \mkbibdatelong.
+(biblatex)                The command should be defined in the .lbx file.
+(biblatex)                If you see this message, the .lbx file could not be
+(biblatex)                loaded, is faulty or does not contain a definition
+(biblatex)                for \mkbibdatelong.
+
+
+Package biblatex Warning: Bibliography string 'april' untranslated
+(biblatex)                at entry 'nordmarkTransitionMechanismsIPv61996' on input line 166.
+
+
+Package biblatex Warning: Bibliography string 'urlseen' untranslated
+(biblatex)                at entry 'nordmarkTransitionMechanismsIPv61996' on input line 166.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
@@ -1579,9 +1695,9 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 File: uio-fp-navn-bm.png Graphic file (type png)
 <use uio-fp-navn-bm.png>
-Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 128.
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 166.
 (pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
-[9
+[12
 
 {/usr/share/texmf-dist/fonts/enc/dvips/noto/a_t3opuj.enc} </usr/share/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>]
 \tf@nav=\write7
@@ -1595,11 +1711,11 @@ Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 128.
 
 File: uio-fp-navn-bm.png Graphic file (type png)
 <use uio-fp-navn-bm.png>
-Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 129.
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 167.
 (pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
  (./main.toc)
 
-[10
+[13
 
 
 ] (./main.aux)
@@ -1608,24 +1724,24 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: CD41407ACDB7AE6485844D2692BF4B23;366.
+(rerunfilecheck)             Checksum: FDB7CC1E2855A1C0EF334695DFAE53BF;495.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 38633 strings out of 475171
- 773971 string characters out of 5767095
- 1547529 words of memory out of 5000000
- 60891 multiletter control sequences out of 15000+600000
- 643800 words of font info for 107 fonts, out of 8000000 for 9000
+ 38667 strings out of 475171
+ 774750 string characters out of 5767095
+ 1547727 words of memory out of 5000000
+ 60916 multiletter control sequences out of 15000+600000
+ 651427 words of font info for 110 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 128i,16n,123p,512b,1745s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf-dist/fonts/type1/public/notomath/NotoMathMI.pfb></usr/share/texmf-dist/fonts/type1/google/noto/NotoSans-Bold.pfb></usr/share/texmf-dist/fonts/type1/google/noto/NotoSans-Italic.pfb></usr/share/texmf-dist/fonts/type1/google/noto/NotoSans-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb></usr/share/texmf-dist/fonts/type1/public/newtx/txmiaX.pfb></usr/share/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
-Output written on main.pdf (10 pages, 286821 bytes).
+ 128i,16n,123p,512b,1775s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf-dist/fonts/type1/google/noto/NotoSans-Bold.pfb></usr/share/texmf-dist/fonts/type1/google/noto/NotoSans-Italic.pfb></usr/share/texmf-dist/fonts/type1/google/noto/NotoSans-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb></usr/share/texmf-dist/fonts/type1/public/newtx/txmiaX.pfb></usr/share/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
+Output written on main.pdf (13 pages, 547993 bytes).
 PDF statistics:
- 176 PDF objects out of 1000 (max. 8388607)
- 122 compressed objects within 2 object streams
- 27 named destinations out of 1000 (max. 500000)
- 95 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 201 PDF objects out of 1000 (max. 8388607)
+ 142 compressed objects within 2 object streams
+ 35 named destinations out of 1000 (max. 500000)
+ 100 words of extra memory for PDF output out of 10000 (max. 10000000)
 
