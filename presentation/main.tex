@@ -140,7 +140,7 @@ packets.}
 {\tiny Source: \parencite{nordmarkTransitionMechanismsIPv61996}}
 \end{frame}
 
-\section{The issue with dual-stacking}
+\section{The issue with Dual-Stacking}
 \begin{frame}{IPv6 and IPv4 failure rate}
   \centering
   \includegraphics[width=0.7\textwidth]{fig2.jpg}
@@ -148,7 +148,7 @@ packets.}
   {\tiny Source: \parencite{ISPColumnNovember}}
 \end{frame}
 
-\begin{frame}{Dual-stacking with IPv6 failure}
+\begin{frame}{Dual-Stacking with IPv6 failure}
   \centering
   \includegraphics[width=0.9\textwidth]{nohe.pdf}
 \end{frame}
@@ -156,7 +156,14 @@ packets.}
 \section{The solution}
 
 \begin{frame}{Happy Eyeballs}
-  
+  \begin{itemize}
+    \item \textbf{RFC 6555} – \emph{Happy Eyeballs: Success with Dual-Stack Hosts}
+    \item "Races" IPv4 and IPv6 in order to solve blocking behavior
+    \item Applicable to connection oriented transport protocols
+    \item Tries to define a set of standard practices around AAAA DNS records
+    \item No multi-record AAAA responses within the same namespace
+    \item No AAAA specific namespaces e.g. \textit{ipv6.example.com}
+  \end{itemize}
 \end{frame}
 
 \begin{frame}{Dual-stacking with Happy Eyeballs}

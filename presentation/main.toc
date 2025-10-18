@@ -1,5 +1,5 @@
 \babel@toc {nil}{}\relax 
 \beamer@sectionintoc {1}{A bit of history}{3}{0}{1}
-\beamer@sectionintoc {2}{The issue with dual-stacking}{9}{0}{2}
+\beamer@sectionintoc {2}{The issue with Dual-Stacking}{9}{0}{2}
 \beamer@sectionintoc {3}{The solution}{11}{0}{3}
 \beamer@sectionintoc {4}{Wrap-up}{13}{0}{4}
