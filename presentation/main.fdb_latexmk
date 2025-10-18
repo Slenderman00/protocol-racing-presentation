@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber main"] 1760808035.0184 "main.bcf" "main.bbl" "main" 1760808266.81481 0
+["biber main"] 0 "main.bcf" "main.bbl" "main" 1760810682.2274 -1
   "Library.bib" 1760807908.37093 91788 5ef7cf011768b4d9b8331f0ce73e5a9c ""
-  "main.bcf" 1760808266.74276 109292 061a3a614e68d0d93ffe17af72392594 "pdflatex"
+  "main.bcf" 1760810682.15396 109292 061a3a614e68d0d93ffe17af72392594 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1760808265.49959 "/home/joar/Documents/protocol-racing-presentation/presentation/main.tex" "main.pdf" "main" 1760808266.81499 0
-  "/home/joar/Documents/protocol-racing-presentation/presentation/main.tex" 1760808265.26971 6676 eea62622ba95a0443021569d107d8e40 ""
+["pdflatex"] 1760810680.75409 "/home/joar/Documents/protocol-racing-presentation/presentation/main.tex" "main.pdf" "main" 1760810682.22758 0
+  "/home/joar/Documents/protocol-racing-presentation/presentation/main.tex" 1760810680.50881 6768 1f82a787c62bff7baf14189be6facc91 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1755987285 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/noto/a_mz6bs5.enc" 1755987285 2961 79587bd8c23e4df860591c6873219579 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/noto/a_t3opuj.enc" 1755987285 3453 23395bcccb1def901c8ab3091269fb31 ""
@@ -293,13 +293,13 @@
   "fig09.png" 1760621349.22542 5519 04a2c0e39b35779071bb9639fd689665 ""
   "fig2.jpg" 1760696056.84577 257093 96c5e3634914090e3e29ad156a03451c ""
   "image.png" 1760623452.90173 82826 74769b583d332a25a3f0619bcbd9078f ""
-  "main.aux" 1760808266.74076 6810 7ed5455a591312ca83759e0505d99b2b "pdflatex"
+  "main.aux" 1760810682.15094 6810 7ed5455a591312ca83759e0505d99b2b "pdflatex"
   "main.bbl" 1760808035.45371 17285 c8b7a761ae5dbf5b99d5f806e641432c "biber main"
-  "main.nav" 1760808266.74415 2880 fe33d974f6e59dc649351256d9a56230 "pdflatex"
-  "main.out" 1760808266.74076 783 c5f3eb220f340a1b0dfd16391838e842 "pdflatex"
-  "main.run.xml" 1760808266.74415 2277 383a8fec8afe5697d2a2cb91c7b263f9 "pdflatex"
-  "main.tex" 1760808265.26971 6676 eea62622ba95a0443021569d107d8e40 ""
-  "main.toc" 1760808266.74415 298 53741464b033cf0f7d4d4e7f0d54b6bc "pdflatex"
+  "main.nav" 1760810682.15643 2880 fe33d974f6e59dc649351256d9a56230 "pdflatex"
+  "main.out" 1760810682.15194 783 c5f3eb220f340a1b0dfd16391838e842 "pdflatex"
+  "main.run.xml" 1760810682.15643 2277 383a8fec8afe5697d2a2cb91c7b263f9 "pdflatex"
+  "main.tex" 1760810680.50881 6768 1f82a787c62bff7baf14189be6facc91 ""
+  "main.toc" 1760810682.15643 298 53741464b033cf0f7d4d4e7f0d54b6bc "pdflatex"
   "nohe.pdf" 1760713770.08216 14975 65861ebcf3d5828e10f9ba8840187902 ""
   "sfblocking.pdf" 1760804067.07052 12326 44d790bb3db6a77d205f3a00d77c1dbd ""
   "uio-beamer-segl-neg.png" 1660058590 124250 99cecf45bd904577e8e9105b66975d74 ""
