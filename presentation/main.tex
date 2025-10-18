@@ -38,6 +38,8 @@
     \item 32-bit address space — \(2^{32} = 4\ 294\ 967\ 296\) possible addresses
     \item Sounds like a lot\ldots\ until you remember that there are 8 billion people alive
   \end{itemize}
+  \centering
+  {\tiny Source: \parencite{InternetProtocol1981a}}
 \end{frame}
 
 \begin{frame}{The problem with IPv4}
@@ -121,6 +123,8 @@ term solution.}
     \item 340 282 366 920 938 463 463 374 607 431 768 211 456 addresses
     \item Allows for some cool things like NAT64
   \end{itemize}
+  \centering
+  {\tiny Source: \parencite{hindenInternetProtocolVersion1998}, \parencite{deeringInternetProtocolVersion2017}}
 \end{frame}
 
 \begin{frame}{Dual-stack}
@@ -164,11 +168,31 @@ packets.}
     \item No multi-record AAAA responses within the same namespace
     \item No AAAA specific namespaces e.g. \textit{ipv6.example.com}
   \end{itemize}
+  \centering
+  {\tiny Source: \parencite{wingHappyEyeballsSuccess2012}}
 \end{frame}
 
 \begin{frame}{Dual-stacking with Happy Eyeballs}
   \centering
   \includegraphics[width=0.9\textwidth]{withhe.pdf}
+\end{frame}
+
+\section{Issues with Happy Eyeballs}
+\begin{frame}{DNS slow family blocking}
+  \centering
+  \includegraphics[width=0.8\textwidth]{sfblocking.pdf}
+\end{frame}
+
+\begin{frame}{Slower Connections}
+\begin{block}{\textit{Measuring the Effects of Happy Eyeballs}}
+\vspace{0.5em}
+\textit{90\% of these cases, HE
+tends to prefer slower IPv6 connection. This shows that the timer
+value (300 ms) used by the HE algorithm has past its time and is
+not suitable in today’s landscape.}
+\end{block}
+  \centering
+  {\tiny Source: \parencite{bajpaiMeasuringEffectsHappy2016}}
 \end{frame}
 
 \section{Wrap-up}

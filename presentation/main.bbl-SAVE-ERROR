@@ -19,6 +19,110 @@
 
 \refsection{0}
   \datalist[entry]{nyt/global//global/global/global}
+    \entry{bajpaiMeasuringEffectsHappy2016}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6ad6555a5fed5515cead75612a54ef4c}{%
+           family={Bajpai},
+           familyi={B\bibinitperiod},
+           given={Vaibhav},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bad6a638af87ad83706ef8ae8b7a1947}{%
+           family={Schönwälder},
+           familyi={S\bibinitperiod},
+           given={Jürgen},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Berlin Germany}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{eeb284baa7ec1385874929c41b2cdcaf}
+      \strng{fullhash}{eeb284baa7ec1385874929c41b2cdcaf}
+      \strng{fullhashraw}{eeb284baa7ec1385874929c41b2cdcaf}
+      \strng{bibnamehash}{eeb284baa7ec1385874929c41b2cdcaf}
+      \strng{authorbibnamehash}{eeb284baa7ec1385874929c41b2cdcaf}
+      \strng{authornamehash}{eeb284baa7ec1385874929c41b2cdcaf}
+      \strng{authorfullhash}{eeb284baa7ec1385874929c41b2cdcaf}
+      \strng{authorfullhashraw}{eeb284baa7ec1385874929c41b2cdcaf}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The IETF has developed protocols that promote a healthy IPv4 and IPv6 co-existence. The Happy Eyeballs (HE) algorithm, for instance, prevents bad user experience in situations where IPv6 connectivity is broken. Using an active test (happy) that measures TCP connection establishment times, we evaluate the effects of the HE algorithm. The happy test measures against ALEXA top 10K websites from 80 SamKnows probes connected to dual-stacked networks representing 58 different ASes. Using a 3-years long (2013 2016) dataset, we show that TCP connect times to popular websites over IPv6 have considerably improved over time. As of May 2016, 18\% of these websites are faster over IPv6 with 91\% of the rest at most 1 ms slower. The historical trend shows that only around 1\% of the TCP connect times over IPv6 were ever above the HE timer value (300 ms), which leaves around 2\% chance for IPv4 to win a HE race towards these websites. As such, 99\% of these websites prefer IPv6 connections more than 98\% of the time. We show that although absolute TCP connect times (in ms) are not that far apart in both address families, HE with a 300 ms timer value tends to prefer slower IPv6 connections in around 90\% of the cases. We show that lowering the HE timer value to 150 ms gives us a margin benefit of 10\% while retaining same preference levels over IPv6.}
+      \field{booktitle}{Proceedings of the 2016 {{Applied Networking Research Workshop}}}
+      \field{isbn}{978-1-4503-4443-2}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{title}{Measuring the {{Effects}} of {{Happy Eyeballs}}}
+      \field{urlday}{18}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{38\bibrangedash 44}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1145/2959424.2959429
+      \endverb
+      \verb{file}
+      \verb /home/joar/Zotero/storage/582Q8AFV/Bajpai and Schönwälder - 2016 - Measuring the Effects of Happy Eyeballs.pdf
+      \endverb
+    \endentry
+    \entry{deeringInternetProtocolVersion2017}{report}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ca230329284d4fb0ed5c9512b6f01ae7}{%
+           family={Deering},
+           familyi={D\bibinitperiod},
+           given={Steve\bibnamedelima E.},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=15731384c9322099ff99912c4a4277a0}{%
+           family={Hinden},
+           familyi={H\bibinitperiod},
+           given={Bob},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Internet Engineering Task Force}%
+      }
+      \strng{namehash}{f2a1b6a56c7bbe0c160344840fb60ff8}
+      \strng{fullhash}{f2a1b6a56c7bbe0c160344840fb60ff8}
+      \strng{fullhashraw}{f2a1b6a56c7bbe0c160344840fb60ff8}
+      \strng{bibnamehash}{f2a1b6a56c7bbe0c160344840fb60ff8}
+      \strng{authorbibnamehash}{f2a1b6a56c7bbe0c160344840fb60ff8}
+      \strng{authornamehash}{f2a1b6a56c7bbe0c160344840fb60ff8}
+      \strng{authorfullhash}{f2a1b6a56c7bbe0c160344840fb60ff8}
+      \strng{authorfullhashraw}{f2a1b6a56c7bbe0c160344840fb60ff8}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This document specifies version 6 of the Internet Protocol (IPv6). It obsoletes RFC 2460.}
+      \field{month}{7}
+      \field{number}{RFC 8200}
+      \field{title}{Internet {{Protocol}}, {{Version}} 6 ({{IPv6}}) {{Specification}}}
+      \field{type}{Request for {{Comments}}}
+      \field{urlday}{18}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.17487/RFC8200
+      \endverb
+      \verb{file}
+      \verb /home/joar/Zotero/storage/5TU22HVH/Deering and Hinden - 2017 - Internet Protocol, Version 6 (IPv6) Specification.pdf
+      \endverb
+    \endentry
     \entry{fullerSupernettingAddressAssignment1992}{report}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=1b5b5435886729ac1e73db0819ca958b}{%
@@ -82,6 +186,80 @@
       \endverb
       \verb{file}
       \verb /home/joar/Zotero/storage/BFPKGZPC/Fuller et al. - 1992 - Supernetting an Address Assignment and Aggregatio.pdf
+      \endverb
+    \endentry
+    \entry{hindenInternetProtocolVersion1998}{report}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=15731384c9322099ff99912c4a4277a0}{%
+           family={Hinden},
+           familyi={H\bibinitperiod},
+           given={Bob},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ca230329284d4fb0ed5c9512b6f01ae7}{%
+           family={Deering},
+           familyi={D\bibinitperiod},
+           given={Steve\bibnamedelima E.},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Internet Engineering Task Force}%
+      }
+      \strng{namehash}{93588a36ead44bc15a5bda5a358cecf6}
+      \strng{fullhash}{93588a36ead44bc15a5bda5a358cecf6}
+      \strng{fullhashraw}{93588a36ead44bc15a5bda5a358cecf6}
+      \strng{bibnamehash}{93588a36ead44bc15a5bda5a358cecf6}
+      \strng{authorbibnamehash}{93588a36ead44bc15a5bda5a358cecf6}
+      \strng{authornamehash}{93588a36ead44bc15a5bda5a358cecf6}
+      \strng{authorfullhash}{93588a36ead44bc15a5bda5a358cecf6}
+      \strng{authorfullhashraw}{93588a36ead44bc15a5bda5a358cecf6}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This document specifies version 6 of the Internet Protocol (IPv6), also sometimes referred to as IP Next Generation or IPng. [STANDARDS-TRACK]}
+      \field{month}{12}
+      \field{number}{RFC 2460}
+      \field{title}{Internet {{Protocol}}, {{Version}} 6 ({{IPv6}}) {{Specification}}}
+      \field{type}{Request for {{Comments}}}
+      \field{urlday}{11}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{year}{1998}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.17487/RFC2460
+      \endverb
+      \verb{file}
+      \verb /home/joar/Zotero/storage/A85SBXP9/Hinden and Deering - 1998 - Internet Protocol, Version 6 (IPv6) Specification.pdf
+      \endverb
+    \endentry
+    \entry{InternetProtocol1981a}{report}{}{}
+      \list{institution}{1}{%
+        {Internet Engineering Task Force}%
+      }
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{number}{RFC 791}
+      \field{title}{Internet {{Protocol}}}
+      \field{type}{Request for {{Comments}}}
+      \field{urlday}{18}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{year}{1981}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.17487/RFC0791
+      \endverb
+      \verb{file}
+      \verb /home/joar/Zotero/storage/CRIH38GN/1981 - Internet Protocol.pdf
       \endverb
     \endentry
     \entry{IPv4AddressReport}{misc}{}{}
@@ -160,6 +338,56 @@
       \endverb
       \verb{file}
       \verb /home/joar/Zotero/storage/ECLXQRTS/Nordmark and Gilligan - 1996 - Transition Mechanisms for IPv6 Hosts and Routers.pdf
+      \endverb
+    \endentry
+    \entry{wingHappyEyeballsSuccess2012}{report}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a441e37c808919dfe7820bf7dc78df03}{%
+           family={Wing},
+           familyi={W\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4ee97a6b29202ef4aaf23517b12869de}{%
+           family={Yourtchenko},
+           familyi={Y\bibinitperiod},
+           given={Anew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Internet Engineering Task Force}%
+      }
+      \strng{namehash}{aaa0ce6f1cb17957b71915aa816db18e}
+      \strng{fullhash}{aaa0ce6f1cb17957b71915aa816db18e}
+      \strng{fullhashraw}{aaa0ce6f1cb17957b71915aa816db18e}
+      \strng{bibnamehash}{aaa0ce6f1cb17957b71915aa816db18e}
+      \strng{authorbibnamehash}{aaa0ce6f1cb17957b71915aa816db18e}
+      \strng{authornamehash}{aaa0ce6f1cb17957b71915aa816db18e}
+      \strng{authorfullhash}{aaa0ce6f1cb17957b71915aa816db18e}
+      \strng{authorfullhashraw}{aaa0ce6f1cb17957b71915aa816db18e}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{When a server's IPv4 path and protocol are working, but the server's IPv6 path and protocol are not working, a dual-stack client application experiences significant connection delay compared to an IPv4-only client. This is undesirable because it causes the dual- stack client to have a worse user experience. This document specifies requirements for algorithms that reduce this user-visible delay and provides an algorithm. [STANDARDS-TRACK]}
+      \field{month}{4}
+      \field{number}{RFC 6555}
+      \field{shorttitle}{Happy {{Eyeballs}}}
+      \field{title}{Happy {{Eyeballs}}: {{Success}} with {{Dual-Stack Hosts}}}
+      \field{type}{Request for {{Comments}}}
+      \field{urlday}{18}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.17487/RFC6555
+      \endverb
+      \verb{file}
+      \verb /home/joar/Zotero/storage/8B2SXNYQ/Wing and Yourtchenko - 2012 - Happy Eyeballs Success with Dual-Stack Hosts.pdf
       \endverb
     \endentry
   \enddatalist
