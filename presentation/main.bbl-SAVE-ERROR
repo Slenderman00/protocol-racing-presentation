@@ -340,6 +340,56 @@
       \verb /home/joar/Zotero/storage/ECLXQRTS/Nordmark and Gilligan - 1996 - Transition Mechanisms for IPv6 Hosts and Routers.pdf
       \endverb
     \endentry
+    \entry{schinaziHappyEyeballsVersion2017}{report}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7144f6649664d719ca5849a34a99a89b}{%
+           family={Schinazi},
+           familyi={S\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac0a7d691b742a1140a5c89205e46958}{%
+           family={Pauly},
+           familyi={P\bibinitperiod},
+           given={Tommy},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Internet Engineering Task Force}%
+      }
+      \strng{namehash}{65e73d3f3d07e2e0a7530181ab576d7e}
+      \strng{fullhash}{65e73d3f3d07e2e0a7530181ab576d7e}
+      \strng{fullhashraw}{65e73d3f3d07e2e0a7530181ab576d7e}
+      \strng{bibnamehash}{65e73d3f3d07e2e0a7530181ab576d7e}
+      \strng{authorbibnamehash}{65e73d3f3d07e2e0a7530181ab576d7e}
+      \strng{authornamehash}{65e73d3f3d07e2e0a7530181ab576d7e}
+      \strng{authorfullhash}{65e73d3f3d07e2e0a7530181ab576d7e}
+      \strng{authorfullhashraw}{65e73d3f3d07e2e0a7530181ab576d7e}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Many communication protocols operating over the modern Internet use hostnames. These often resolve to multiple IP addresses, each of which may have different performance and connectivity characteristics. Since specific addresses or address families (IPv4 or IPv6) may be blocked, broken, or sub-optimal on a network, clients that attempt multiple connections in parallel have a chance of establishing a connection more quickly. This document specifies requirements for algorithms that reduce this user-visible delay and provides an example algorithm, referred to as "Happy Eyeballs". This document obsoletes the original algorithm description in RFC 6555.}
+      \field{month}{12}
+      \field{number}{RFC 8305}
+      \field{shorttitle}{Happy {{Eyeballs Version}} 2}
+      \field{title}{Happy {{Eyeballs Version}} 2: {{Better Connectivity Using Concurrency}}}
+      \field{type}{Request for {{Comments}}}
+      \field{urlday}{18}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.17487/RFC8305
+      \endverb
+      \verb{file}
+      \verb /home/joar/Zotero/storage/G6GNZTE9/Schinazi and Pauly - 2017 - Happy Eyeballs Version 2 Better Connectivity Usin.pdf
+      \endverb
+    \endentry
     \entry{wingHappyEyeballsSuccess2012}{report}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=a441e37c808919dfe7820bf7dc78df03}{%

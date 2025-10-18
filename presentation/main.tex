@@ -167,6 +167,7 @@ packets.}
     \item Tries to define a set of standard practices around AAAA DNS records
     \item No multi-record AAAA responses within the same namespace
     \item No AAAA specific namespaces e.g. \textit{ipv6.example.com}
+    \item Specifies a head start of 150-250 ms but, all browsers use 300 ms
   \end{itemize}
   \centering
   {\tiny Source: \parencite{wingHappyEyeballsSuccess2012}}
@@ -195,7 +196,20 @@ not suitable in today’s landscape.}
   {\tiny Source: \parencite{bajpaiMeasuringEffectsHappy2016}}
 \end{frame}
 
-% add section on v2 claiming it adds udp support even tho this is allready a feature in v1
+\section{Happy Eyeballs version 2}
+\begin{frame}{Happy Eyeballs version 2}
+  \begin{itemize}
+    \item \textbf{RFC 8305} – \emph{Happy Eyeballs: Better Connectivity Using Concurrency}
+    \item Races DNS families to avoid blocking
+    \item Races multiple records in multi record DNS responses
+    \item Implements a set of 10 rules for sorting the records (Functionally replacing old IPv6 address selection policy defined in \textbf{RFC 3484})
+    \item Prefers DNS over IPv6 but, won't race them if both IPv4 and IPv6 addresses are available
+    \item Implements a 'resolution delay' to give AAAA records a head start
+  \end{itemize}
+  \centering
+  {\tiny Source: \parencite{schinaziHappyEyeballsVersion2017}}
+\end{frame}
+
 
 \section{Wrap-up}
 \begin{frame}

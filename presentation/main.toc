@@ -3,4 +3,5 @@
 \beamer@sectionintoc {2}{The issue with Dual-Stacking}{9}{0}{2}
 \beamer@sectionintoc {3}{The solution}{11}{0}{3}
 \beamer@sectionintoc {4}{Issues with Happy Eyeballs}{13}{0}{4}
-\beamer@sectionintoc {5}{Wrap-up}{15}{0}{5}
+\beamer@sectionintoc {5}{Happy Eyeballs version 2}{15}{0}{5}
+\beamer@sectionintoc {6}{Wrap-up}{16}{0}{6}
