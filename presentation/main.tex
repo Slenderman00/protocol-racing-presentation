@@ -8,6 +8,32 @@
 \usepackage[backend=biber,style=authoryear,maxcitenames=2,maxbibnames=99]{biblatex}
 \addbibresource{Library.bib}
 
+% Clickable, always-parenthesized compact citation
+\DeclareCiteCommand{\sourcecite}
+  {\usebibmacro{prenote}}
+  {%
+    \printtext[parens]{%
+      \bibhyperref{%
+        % Name: author -> organization -> institution
+        \ifnameundef{labelname}
+          {\iffieldundef{organization}
+            {\iffieldundef{institution}{}{\printlist{institution}}}
+            {\printlist{organization}}%
+          }
+          {\printnames{labelname}}%
+        % Year/Date if present
+        \iffieldundef{year}
+          {\iffieldundef{date}{}{\setunit{\addcomma\space}\printdate}}
+          {\setunit{\addcomma\space}\printdate}%
+        % Title if present (italic)
+        \iffieldundef{title}{}{\setunit{\addcomma\space}\emph{\printfield[citetitle]{title}}}%
+      }% end \bibhyperref
+    }% end \printtext[parens]
+  }
+  {\multicitedelim}
+  {\usebibmacro{postnote}}
+
+
 \usepackage{graphicx}
 \usepackage{booktabs}
 \usepackage{hyperref}
@@ -39,14 +65,14 @@
     \item Sounds like a lot\ldots\ until you remember that there are 8 billion people alive
   \end{itemize}
   \centering
-  {\tiny Source: \parencite{InternetProtocol1981a}}
+  {\tiny Source: \sourcecite{InternetProtocol1981a}}
 \end{frame}
 
 \begin{frame}{The problem with IPv4}
   \centering
   \includegraphics[width=0.8\textwidth]{fig09.png}
   \\
-  {\tiny Source: \parencite{IPv4AddressReport}}
+  {\tiny Source: \sourcecite{IPv4AddressReport}}
 \end{frame}
 
 \begin{frame}
@@ -62,7 +88,7 @@ term solution.}
 (The third problem being IPv4 exhaustion)
 \centering
 \\
-{\tiny Source: \parencite{fullerSupernettingAddressAssignment1992}}
+{\tiny Source: \sourcecite{fullerSupernettingAddressAssignment1992}}
 \end{frame}
 
 \begin{frame}{Timeline of stopgap measures}
@@ -124,7 +150,7 @@ term solution.}
     \item Allows for some cool things like NAT64
   \end{itemize}
   \centering
-  {\tiny Source: \parencite{hindenInternetProtocolVersion1998}, \parencite{deeringInternetProtocolVersion2017}}
+  {\tiny Source: \sourcecite{hindenInternetProtocolVersion1998}, \sourcecite{deeringInternetProtocolVersion2017}}
 \end{frame}
 
 \begin{frame}{Dual-stack}
@@ -141,7 +167,7 @@ packets, and also directly interoperate with IPv6 nodes using IPv6
 packets.}
 \end{block}
 \centering
-{\tiny Source: \parencite{nordmarkTransitionMechanismsIPv61996}}
+{\tiny Source: \sourcecite{nordmarkTransitionMechanismsIPv61996}}
 \end{frame}
 
 \section{The issue with Dual-Stacking}
@@ -149,7 +175,7 @@ packets.}
   \centering
   \includegraphics[width=0.7\textwidth]{fig2.jpg}
   \\
-  {\tiny Source: \parencite{ISPColumnNovember}}
+  {\tiny Source: \sourcecite{ISPColumnNovember}}
 \end{frame}
 
 \begin{frame}{Dual-Stacking with IPv6 failure}
@@ -171,7 +197,7 @@ packets.}
     \item Specifies a head start of 150-250 ms but, all browsers use 300 ms
   \end{itemize}
   \centering
-  {\tiny Source: \parencite{wingHappyEyeballsSuccess2012}}
+  {\tiny Source: \sourcecite{wingHappyEyeballsSuccess2012}}
 \end{frame}
 
 \begin{frame}{Dual-stacking with Happy Eyeballs}
@@ -194,7 +220,7 @@ value (300 ms) used by the HE algorithm has past its time and is
 not suitable in today’s landscape.}
 \end{block}
   \centering
-  {\tiny Source: \parencite{bajpaiMeasuringEffectsHappy2016}}
+  {\tiny Source: \sourcecite{bajpaiMeasuringEffectsHappy2016}}
 \end{frame}
 
 \section{Happy Eyeballs version 2}
@@ -209,7 +235,7 @@ not suitable in today’s landscape.}
     \item suggests a "Connection Attempt Delay" of 100-250 ms as standard but encourages implementations to calculate delays based on historical RTT
   \end{itemize}
   \centering
-  {\tiny Source: \parencite{schinaziHappyEyeballsVersion2017}}
+  {\tiny Source: \sourcecite{schinaziHappyEyeballsVersion2017}}
 \end{frame}
 
 \begin{frame}{Dual-stacking with Happy Eyeballs v2}
@@ -231,7 +257,7 @@ not suitable in today’s landscape.}
   \centering
   \includegraphics[width=0.6\textwidth]{impl3.png}
   \\
-  {\tiny Source: \parencite{sattlerLazyEyeInspection2025}}
+  {\tiny Source: \sourcecite{sattlerLazyEyeInspection2025}}
 \end{frame}
 
 
@@ -250,7 +276,7 @@ not suitable in today’s landscape.}
     \item Secondary milestone of creating "An informational document that explains the impact of Happy Eyeballs on detecting and measuring broken deployments, with recommendations on how to report errors"
   \end{itemize}
   \centering
-  {\tiny Source: \parencite{HeuristicsAlgorithmsPrioritize}}
+  {\tiny Source: \sourcecite{HeuristicsAlgorithmsPrioritize}}
 \end{frame}
 
 \begin{frame}{draft-ietf-happy-happyeyeballs-v3-02}
@@ -260,7 +286,7 @@ not suitable in today’s landscape.}
     \item Queries SVCB and HTTPS records if available, this allows the client to sort records based on discovered transport protocols TCP, QUIC or both
   \end{itemize}
   \centering
-  {\tiny Source: \parencite{paulyHappyEyeballsVersion2025}}
+  {\tiny Source: \sourcecite{paulyHappyEyeballsVersion2025}}
 \end{frame}
 
 \section{Wrap-up}
