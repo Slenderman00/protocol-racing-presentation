@@ -6,4 +6,5 @@
 \beamer@sectionintoc {5}{Happy Eyeballs version 2}{15}{0}{5}
 \beamer@sectionintoc {6}{Issues with Happy Eyeballs 2}{18}{0}{6}
 \beamer@sectionintoc {7}{The HAPPY WG}{20}{0}{7}
-\beamer@sectionintoc {8}{Wrap-up}{22}{0}{8}
+\beamer@sectionintoc {8}{Transport Services Racing}{22}{0}{8}
+\beamer@sectionintoc {9}{Wrap-up}{23}{0}{9}
