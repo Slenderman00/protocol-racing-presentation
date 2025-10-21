@@ -157,7 +157,7 @@ packets.}
   \includegraphics[width=0.9\textwidth]{nohe.pdf}
 \end{frame}
 
-\section{The solution}
+\section{Happy Eyeballs}
 
 \begin{frame}{Happy Eyeballs}
   \begin{itemize}
@@ -206,14 +206,24 @@ not suitable in today’s landscape.}
     \item Implements a set of 10 rules for sorting the records (Functionally replacing old IPv6 address selection policy defined in \textbf{RFC 3484})
     \item Prefers DNS over IPv6 but, won't race them if both IPv4 and IPv6 addresses are available
     \item Implements a 'resolution delay' to give AAAA records a head start
+    \item suggests a "Connection Attempt Delay" of 100-250 ms as standard but encourages implementations to calculate delays based on historical RTT
   \end{itemize}
   \centering
   {\tiny Source: \parencite{schinaziHappyEyeballsVersion2017}}
 \end{frame}
 
 \begin{frame}{Dual-stacking with Happy Eyeballs v2}
+  Sorted addresses after requesting A and AAAA records from \textit{example.com}:
+  \begin{enumerate}
+    \item 2001:0db8:12a4:56cd::1
+    \item 203.0.113.1
+    \item 2001:0db8:12a4:56cd::2
+  \end{enumerate}
+\end{frame}
+
+\begin{frame}{Dual-stacking with Happy Eyeballs v2}
   \centering
-  \includegraphics[width=0.9\textwidth]{hev2.pdf}
+  \includegraphics[width=1\textwidth]{hev2v2.pdf}
 \end{frame}
 
 \section{The HAPPY WG}
