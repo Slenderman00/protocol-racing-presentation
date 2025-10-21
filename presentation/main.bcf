@@ -2383,7 +2383,9 @@
     <bcf:citekey order="8" intorder="1">wingHappyEyeballsSuccess2012</bcf:citekey>
     <bcf:citekey order="9" intorder="1">bajpaiMeasuringEffectsHappy2016</bcf:citekey>
     <bcf:citekey order="10" intorder="1">schinaziHappyEyeballsVersion2017</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">HeuristicsAlgorithmsPrioritize</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">sattlerLazyEyeInspection2025</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">HeuristicsAlgorithmsPrioritize</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">paulyHappyEyeballsVersion2025</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">

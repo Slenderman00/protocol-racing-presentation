@@ -200,6 +200,9 @@
       \field{urlmonth}{10}
       \field{urlyear}{2025}
       \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/joar/Zotero/storage/5P6JIE5S/about.html
+      \endverb
     \endentry
     \entry{hindenInternetProtocolVersion1998}{report}{}{}
       \name{author}{2}{}{%
@@ -303,6 +306,9 @@
       \field{urlmonth}{10}
       \field{urlyear}{2025}
       \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/joar/Zotero/storage/A3S6E7VT/v6perf.html
+      \endverb
     \endentry
     \entry{nordmarkTransitionMechanismsIPv61996}{report}{}{}
       \name{author}{2}{}{%
@@ -352,6 +358,135 @@
       \verb{file}
       \verb /home/joar/Zotero/storage/ECLXQRTS/Nordmark and Gilligan - 1996 - Transition Mechanisms for IPv6 Hosts and Routers.pdf
       \endverb
+    \endentry
+    \entry{paulyHappyEyeballsVersion2025}{report}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=ac0a7d691b742a1140a5c89205e46958}{%
+           family={Pauly},
+           familyi={P\bibinitperiod},
+           given={Tommy},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7144f6649664d719ca5849a34a99a89b}{%
+           family={Schinazi},
+           familyi={S\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1b098230a41f6128094c844fafe94204}{%
+           family={Jaju},
+           familyi={J\bibinitperiod},
+           given={Nidhi},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9a331087f9977b1e331836edc8d61e6e}{%
+           family={Ishibashi},
+           familyi={I\bibinitperiod},
+           given={Kenichi},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Internet Engineering Task Force}%
+      }
+      \strng{namehash}{4f15b10c2fc85aee0d5df33c693da39c}
+      \strng{fullhash}{ee4d36fdfd6a1db2ac96ab37d6fb023f}
+      \strng{fullhashraw}{ee4d36fdfd6a1db2ac96ab37d6fb023f}
+      \strng{bibnamehash}{ee4d36fdfd6a1db2ac96ab37d6fb023f}
+      \strng{authorbibnamehash}{ee4d36fdfd6a1db2ac96ab37d6fb023f}
+      \strng{authornamehash}{4f15b10c2fc85aee0d5df33c693da39c}
+      \strng{authorfullhash}{ee4d36fdfd6a1db2ac96ab37d6fb023f}
+      \strng{authorfullhashraw}{ee4d36fdfd6a1db2ac96ab37d6fb023f}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Many communication protocols operating over the modern Internet use hostnames. These often resolve to multiple IP addresses, each of which may have different performance and connectivity characteristics. Since specific addresses or address families (IPv4 or IPv6) may be blocked, broken, or sub-optimal on a network, clients that attempt multiple connections in parallel have a chance of establishing a connection more quickly. This document specifies requirements for algorithms that reduce this user-visible delay and provides an example algorithm, referred to as "Happy Eyeballs". This document updates the algorithm description in RFC 8305.}
+      \field{month}{10}
+      \field{number}{draft-ietf-happy-happyeyeballs-v3-02}
+      \field{shorttitle}{Happy {{Eyeballs Version}} 3}
+      \field{title}{Happy {{Eyeballs Version}} 3: {{Better Connectivity Using Concurrency}}}
+      \field{type}{Internet {{Draft}}}
+      \field{urlday}{21}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{sattlerLazyEyeInspection2025}{inproceedings}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=614378c8565369c7ee71923b3014c8ef}{%
+           family={Sattler},
+           familyi={S\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fbd8785ae2cb03d058dc68d329cbf1dc}{%
+           family={Kirstein},
+           familyi={K\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=337e57a1b16b163d4de029abf78331d3}{%
+           family={Wüstrich},
+           familyi={W\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5543e6c46a97b999af4025bfab4ebd95}{%
+           family={Zirngibl},
+           familyi={Z\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8d4a470562f976d64486a25768467b84}{%
+           family={Carle},
+           familyi={C\bibinitperiod},
+           given={Georg},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9e8567d229b93300ba88151abc390b15}
+      \strng{fullhash}{ef3b0aa72a452743892bbb11760b63b8}
+      \strng{fullhashraw}{ef3b0aa72a452743892bbb11760b63b8}
+      \strng{bibnamehash}{ef3b0aa72a452743892bbb11760b63b8}
+      \strng{authorbibnamehash}{ef3b0aa72a452743892bbb11760b63b8}
+      \strng{authornamehash}{9e8567d229b93300ba88151abc390b15}
+      \strng{authorfullhash}{ef3b0aa72a452743892bbb11760b63b8}
+      \strng{authorfullhashraw}{ef3b0aa72a452743892bbb11760b63b8}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{While transitioning to an IPv6-only communication, many devices settled on a dual-stack setup. IPv4 and IPv6 are available to these hosts for new connections. Happy Eyeballs (HE) describes a mechanism to prefer IPv6 for such hosts while ensuring a fast fallback to IPv4 when IPv6 fails. The IETF is currently working on the third version of HE. While the standards include recommendations for HE parameter choices, it is up to the client and OS to implement HE. In this paper, we investigate the state of HE in various clients, particularly web browsers and recursive resolvers. We introduce a framework to analyze and measure clients' HE implementations and parameter choices. According to our evaluation, only Safari supports all HE features. Safari is also the only client implementation in our study that uses a dynamic IPv4 connection attempt delay, a resolution delay, and interlaces addresses. We further show that problems with the DNS A record lookup can even delay and interrupt the network connectivity despite a fully functional IPv6 setup with Chrome and Firefox. We operate a publicly available website (www.happy-eyeballs.net) which measures the browser's HE behavior, and we publish our testbed measurement framework.}
+      \field{booktitle}{Proceedings of the 2025 {{ACM Internet Measurement Conference}}}
+      \field{eprintclass}{cs}
+      \field{eprinttype}{arXiv}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{shorttitle}{Lazy {{Eye Inspection}}}
+      \field{title}{Lazy {{Eye Inspection}}: {{Capturing}} the {{State}} of {{Happy Eyeballs Implementations}}}
+      \field{urlday}{21}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \field{pages}{213\bibrangedash 221}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1145/3730567.3732925
+      \endverb
+      \verb{eprint}
+      \verb 2412.00263
+      \endverb
+      \verb{file}
+      \verb /home/joar/Zotero/storage/9HTL3KFC/Sattler et al. - 2025 - Lazy Eye Inspection Capturing the State of Happy .pdf
+      \endverb
+      \keyw{Computer Science - Networking and Internet Architecture}
     \endentry
     \entry{schinaziHappyEyeballsVersion2017}{report}{}{}
       \name{author}{2}{}{%

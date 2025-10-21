@@ -385,7 +385,8 @@
   urldate = {2025-10-17},
   abstract = {Every so often I hear the claim that some service or other does not support IPv6 not because of some technical issue, or some cost or business issue, but simply because the service operator is of the view that IPv6 offers an inferior level service as compared to IPv4, and by offering the service ov{\dots}},
   howpublished = {https://labs.ripe.net/author/gih/examining-ipv6-performance/},
-  langid = {english}
+  langid = {english},
+  file = {/home/joar/Zotero/storage/LRG9KKEY/examining-ipv6-performance.html}
 }
 
 @misc{ExtensibleMarkupLanguage,
@@ -572,7 +573,8 @@
 @misc{HeuristicsAlgorithmsPrioritize,
   title = {Heuristics and {{Algorithms}} to {{Prioritize Protocol deploYment}} (Happy)},
   urldate = {2025-10-21},
-  howpublished = {https://datatracker.ietf.org/wg/happy/about/}
+  howpublished = {https://datatracker.ietf.org/wg/happy/about/},
+  file = {/home/joar/Zotero/storage/5P6JIE5S/about.html}
 }
 
 @techreport{hindenInternetProtocolVersion1998,
@@ -787,7 +789,8 @@
 @misc{ISPColumnNovember,
   title = {{{ISP Column}} - {{November}} 2015},
   urldate = {2025-10-17},
-  howpublished = {https://www.potaroo.net/ispcol/2015-11/v6perf.html}
+  howpublished = {https://www.potaroo.net/ispcol/2015-11/v6perf.html},
+  file = {/home/joar/Zotero/storage/A3S6E7VT/v6perf.html}
 }
 
 @techreport{jonesJSONWebToken2015,
@@ -1029,6 +1032,32 @@
   file = {/home/joar/Zotero/storage/L7E4XP4E/Parkinson's_law.html}
 }
 
+@misc{patricksattlerAnalysingStateHappy2025,
+  title = {Analysing the State of {{Happy Eyeballs}} Implementations},
+  author = {{Patrick Sattler}},
+  year = {2025},
+  month = oct,
+  journal = {APNIC Blog},
+  urldate = {2025-10-21},
+  abstract = {Guest Post: The Happy Eyeballs algorithm supports IPv6 deployment by giving clients the ability to prefer IPv6, quickly fall back to IPv4 when necessary, and protect the user experience in either case. But how widely is it implemented?},
+  chapter = {Tech matters},
+  langid = {american},
+  file = {/home/joar/Zotero/storage/EIGGV3EI/analysing-the-state-of-happy-eyeballs-implementations.html}
+}
+
+@techreport{paulyHappyEyeballsVersion2025,
+  type = {Internet {{Draft}}},
+  title = {Happy {{Eyeballs Version}} 3: {{Better Connectivity Using Concurrency}}},
+  shorttitle = {Happy {{Eyeballs Version}} 3},
+  author = {Pauly, Tommy and Schinazi, David and Jaju, Nidhi and Ishibashi, Kenichi},
+  year = {2025},
+  month = oct,
+  number = {draft-ietf-happy-happyeyeballs-v3-02},
+  institution = {Internet Engineering Task Force},
+  urldate = {2025-10-21},
+  abstract = {Many communication protocols operating over the modern Internet use hostnames. These often resolve to multiple IP addresses, each of which may have different performance and connectivity characteristics. Since specific addresses or address families (IPv4 or IPv6) may be blocked, broken, or sub-optimal on a network, clients that attempt multiple connections in parallel have a chance of establishing a connection more quickly. This document specifies requirements for algorithms that reduce this user-visible delay and provides an example algorithm, referred to as "Happy Eyeballs". This document updates the algorithm description in RFC 8305.}
+}
+
 @misc{PenpotDesignTool,
   title = {Penpot: {{The Design Tool}} for {{Design}} \& {{Code Collaboration}}},
   shorttitle = {Penpot},
@@ -1102,6 +1131,25 @@ NTRS Research Center: Headquarters (HQ)},
   urldate = {2025-05-13},
   abstract = {This document specifies Version 1.2 of the Transport Layer Security (TLS) protocol. The TLS protocol provides communications security over the Internet. The protocol allows client/server applications to communicate in a way that is designed to prevent eavesdropping, tampering, or message forgery. [STANDARDS-TRACK]},
   file = {/home/joar/Zotero/storage/8MYB3DAW/Rescorla and Dierks - 2008 - The Transport Layer Security (TLS) Protocol Versio.pdf}
+}
+
+@inproceedings{sattlerLazyEyeInspection2025,
+  title = {Lazy {{Eye Inspection}}: {{Capturing}} the {{State}} of {{Happy Eyeballs Implementations}}},
+  shorttitle = {Lazy {{Eye Inspection}}},
+  booktitle = {Proceedings of the 2025 {{ACM Internet Measurement Conference}}},
+  author = {Sattler, Patrick and Kirstein, Matthias and W{\"u}strich, Lars and Zirngibl, Johannes and Carle, Georg},
+  year = {2025},
+  month = oct,
+  eprint = {2412.00263},
+  primaryclass = {cs},
+  pages = {213--221},
+  doi = {10.1145/3730567.3732925},
+  urldate = {2025-10-21},
+  abstract = {While transitioning to an IPv6-only communication, many devices settled on a dual-stack setup. IPv4 and IPv6 are available to these hosts for new connections. Happy Eyeballs (HE) describes a mechanism to prefer IPv6 for such hosts while ensuring a fast fallback to IPv4 when IPv6 fails. The IETF is currently working on the third version of HE. While the standards include recommendations for HE parameter choices, it is up to the client and OS to implement HE. In this paper, we investigate the state of HE in various clients, particularly web browsers and recursive resolvers. We introduce a framework to analyze and measure clients' HE implementations and parameter choices. According to our evaluation, only Safari supports all HE features. Safari is also the only client implementation in our study that uses a dynamic IPv4 connection attempt delay, a resolution delay, and interlaces addresses. We further show that problems with the DNS A record lookup can even delay and interrupt the network connectivity despite a fully functional IPv6 setup with Chrome and Firefox. We operate a publicly available website (www.happy-eyeballs.net) which measures the browser's HE behavior, and we publish our testbed measurement framework.},
+  archiveprefix = {arXiv},
+  langid = {english},
+  keywords = {Computer Science - Networking and Internet Architecture},
+  file = {/home/joar/Zotero/storage/9HTL3KFC/Sattler et al. - 2025 - Lazy Eye Inspection Capturing the State of Happy .pdf}
 }
 
 @techreport{schinaziHappyEyeballsVersion2017,

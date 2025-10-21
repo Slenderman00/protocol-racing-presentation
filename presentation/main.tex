@@ -226,6 +226,20 @@ not suitable in today’s landscape.}
   \includegraphics[width=1\textwidth]{hev2v2.pdf}
 \end{frame}
 
+\section{Issues with Happy Eyeballs 2}
+\begin{frame}{Issues with Happy Eyeballs 2}
+  \centering
+  \includegraphics[width=0.6\textwidth]{impl3.png}
+  \\
+  {\tiny Source: \parencite{sattlerLazyEyeInspection2025}}
+\end{frame}
+
+
+\begin{frame}{Issues with Happy Eyeballs 2}
+  \centering
+  Does not work with NAT64 (This is not a critical issue) 
+\end{frame}
+
 \section{The HAPPY WG}
 \begin{frame}{The HAPPY WG}
   \begin{itemize}
@@ -237,6 +251,16 @@ not suitable in today’s landscape.}
   \end{itemize}
   \centering
   {\tiny Source: \parencite{HeuristicsAlgorithmsPrioritize}}
+\end{frame}
+
+\begin{frame}{draft-ietf-happy-happyeyeballs-v3-02}
+  \begin{itemize}
+    \item Implements all the same features as Happy Eyeballs v2
+    \item Added support for NAT64 networks... The implementation will synthesize IPv6 addresses by embedding the IPv4 to the /96 NAT64 prefix (64:ff9b::/96)
+    \item Queries SVCB and HTTPS records if available, this allows the client to sort records based on discovered transport protocols TCP, QUIC or both
+  \end{itemize}
+  \centering
+  {\tiny Source: \parencite{paulyHappyEyeballsVersion2025}}
 \end{frame}
 
 \section{Wrap-up}

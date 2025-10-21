@@ -49,27 +49,38 @@
 \headcommand {\beamer@framepages {17}{17}}
 \headcommand {\beamer@sectionpages {15}{17}}
 \headcommand {\beamer@subsectionpages {15}{17}}
-\headcommand {\sectionentry {6}{The HAPPY WG}{18}{The HAPPY WG}{0}}
+\headcommand {\sectionentry {6}{Issues with Happy Eyeballs 2}{18}{Issues with Happy Eyeballs 2}{0}}
 \headcommand {\slideentry {6}{0}{1}{18/18}{}{0}}
 \headcommand {\beamer@framepages {18}{18}}
-\headcommand {\beamer@sectionpages {18}{18}}
-\headcommand {\beamer@subsectionpages {18}{18}}
-\headcommand {\sectionentry {7}{Wrap-up}{19}{Wrap-up}{0}}
-\headcommand {\slideentry {7}{0}{1}{19/19}{}{0}}
+\headcommand {\slideentry {6}{0}{2}{19/19}{}{0}}
 \headcommand {\beamer@framepages {19}{19}}
-\headcommand {\beamer@sectionpages {19}{19}}
-\headcommand {\beamer@subsectionpages {19}{19}}
-\headcommand {\sectionentry {8}{\translate {References}}{20}{\translate {References}}{0}}
-\headcommand {\slideentry {8}{0}{0}{20/20}{}{0}}
+\headcommand {\beamer@sectionpages {18}{19}}
+\headcommand {\beamer@subsectionpages {18}{19}}
+\headcommand {\sectionentry {7}{The HAPPY WG}{20}{The HAPPY WG}{0}}
+\headcommand {\slideentry {7}{0}{1}{20/20}{}{0}}
 \headcommand {\beamer@framepages {20}{20}}
-\headcommand {\slideentry {8}{0}{0}{20/21}{}{0}}
-\headcommand {\beamer@framepages {20}{21}}
-\headcommand {\slideentry {8}{0}{0}{20/22}{}{0}}
-\headcommand {\beamer@framepages {20}{22}}
-\headcommand {\beamer@partpages {1}{22}}
-\headcommand {\beamer@subsectionpages {19}{22}}
-\headcommand {\beamer@sectionpages {19}{22}}
-\headcommand {\beamer@documentpages {22}}
-\headcommand {\gdef \inserttotalframenumber {21}}
-\headcommand {\slideentry {8}{0}{1}{23/23}{}{0}}
+\headcommand {\slideentry {7}{0}{2}{21/21}{}{0}}
+\headcommand {\beamer@framepages {21}{21}}
+\headcommand {\beamer@sectionpages {20}{21}}
+\headcommand {\beamer@subsectionpages {20}{21}}
+\headcommand {\sectionentry {8}{Wrap-up}{22}{Wrap-up}{0}}
+\headcommand {\slideentry {8}{0}{1}{22/22}{}{0}}
+\headcommand {\beamer@framepages {22}{22}}
+\headcommand {\beamer@sectionpages {22}{22}}
+\headcommand {\beamer@subsectionpages {22}{22}}
+\headcommand {\sectionentry {9}{\translate {References}}{23}{\translate {References}}{0}}
+\headcommand {\slideentry {9}{0}{0}{23/23}{}{0}}
 \headcommand {\beamer@framepages {23}{23}}
+\headcommand {\slideentry {9}{0}{0}{23/24}{}{0}}
+\headcommand {\beamer@framepages {23}{24}}
+\headcommand {\slideentry {9}{0}{0}{23/25}{}{0}}
+\headcommand {\beamer@framepages {23}{25}}
+\headcommand {\slideentry {9}{0}{0}{23/26}{}{0}}
+\headcommand {\beamer@framepages {23}{26}}
+\headcommand {\beamer@partpages {1}{26}}
+\headcommand {\beamer@subsectionpages {22}{26}}
+\headcommand {\beamer@sectionpages {22}{26}}
+\headcommand {\beamer@documentpages {26}}
+\headcommand {\gdef \inserttotalframenumber {25}}
+\headcommand {\slideentry {9}{0}{1}{27/27}{}{0}}
+\headcommand {\beamer@framepages {27}{27}}
