@@ -4,4 +4,5 @@
 \beamer@sectionintoc {3}{The solution}{11}{0}{3}
 \beamer@sectionintoc {4}{Issues with Happy Eyeballs}{13}{0}{4}
 \beamer@sectionintoc {5}{Happy Eyeballs version 2}{15}{0}{5}
-\beamer@sectionintoc {6}{Wrap-up}{16}{0}{6}
+\beamer@sectionintoc {6}{The HAPPY WG}{17}{0}{6}
+\beamer@sectionintoc {7}{Wrap-up}{18}{0}{7}

@@ -188,6 +188,19 @@
       \verb /home/joar/Zotero/storage/BFPKGZPC/Fuller et al. - 1992 - Supernetting an Address Assignment and Aggregatio.pdf
       \endverb
     \endentry
+    \entry{HeuristicsAlgorithmsPrioritize}{misc}{}{}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://datatracker.ietf.org/wg/happy/about/}
+      \field{title}{Heuristics and {{Algorithms}} to {{Prioritize Protocol deploYment}} (Happy)}
+      \field{urlday}{21}
+      \field{urlmonth}{10}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+    \endentry
     \entry{hindenInternetProtocolVersion1998}{report}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=15731384c9322099ff99912c4a4277a0}{%

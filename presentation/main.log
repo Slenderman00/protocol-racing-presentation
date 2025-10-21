@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.9.14)  18 OCT 2025 20:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.9.14)  21 OCT 2025 13:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1279,7 +1279,7 @@ Package biblatex Info: Reference segment=0 on input line 23.
  (./main.nav)
 LaTeX Font Info:    Font shape `T1/NotoSans-TLF/m/n' will be
 (Font)              scaled to size 5.99927pt on input line 23.
-<uio-fp-navn-bm.png, id=41, 628.5081pt x 127.677pt>
+<uio-fp-navn-bm.png, id=45, 628.5081pt x 127.677pt>
 File: uio-fp-navn-bm.png Graphic file (type png)
 <use uio-fp-navn-bm.png>
 Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 23.
@@ -1366,12 +1366,12 @@ LaTeX Font Info:    Font shape `T1/NotoSans-TLF/m/it' will be
 (Font)              scaled to size 7.99902pt on input line 25.
 LaTeX Font Info:    Font shape `T1/NotoSans-TLF/m/it' will be
 (Font)              scaled to size 6.09926pt on input line 25.
-<image.png, id=44, 420.1296pt x 555.0336pt>
+<image.png, id=48, 420.1296pt x 555.0336pt>
 File: image.png Graphic file (type png)
 <use image.png>
 Package pdftex.def Info: image.png  used on input line 25.
 (pdftex.def)             Requested size: 197.71095pt x 261.19612pt.
-<uio-beamer-segl-neg.png, id=45, 236.3229pt x 237.7683pt>
+<uio-beamer-segl-neg.png, id=49, 236.3229pt x 237.7683pt>
 File: uio-beamer-segl-neg.png Graphic file (type png)
 <use uio-beamer-segl-neg.png>
 Package pdftex.def Info: uio-beamer-segl-neg.png  used on input line 25.
@@ -1428,7 +1428,7 @@ File: uio-fp-navn-bm.png Graphic file (type png)
 <use uio-fp-navn-bm.png>
 Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 50.
 (pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
-<fig09.png, id=88, 602.25pt x 361.35pt>
+<fig09.png, id=94, 602.25pt x 361.35pt>
 File: fig09.png Graphic file (type png)
 <use fig09.png>
 Package pdftex.def Info: fig09.png  used on input line 50.
@@ -1569,7 +1569,7 @@ File: uio-fp-navn-bm.png Graphic file (type png)
 <use uio-fp-navn-bm.png>
 Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 153.
 (pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
-<fig2.jpg, id=137, 1075.01625pt x 725.71124pt>
+<fig2.jpg, id=143, 1075.01625pt x 725.71124pt>
 File: fig2.jpg Graphic file (type jpg)
 <use fig2.jpg>
 Package pdftex.def Info: fig2.jpg  used on input line 153.
@@ -1599,7 +1599,7 @@ File: uio-fp-navn-bm.png Graphic file (type png)
 <use uio-fp-navn-bm.png>
 Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 158.
 (pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
-<nohe.pdf, id=147, 307.90031pt x 98.61844pt>
+<nohe.pdf, id=153, 307.90031pt x 98.61844pt>
 File: nohe.pdf Graphic file (type pdf)
 <use nohe.pdf>
 Package pdftex.def Info: nohe.pdf  used on input line 158.
@@ -1615,12 +1615,12 @@ Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 158.
  <./nohe.pdf>]
 File: uio-fp-navn-bm.png Graphic file (type png)
 <use uio-fp-navn-bm.png>
-Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 174.
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 175.
 (pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
 
 
 Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'wingHappyEyeballsSuccess2012' on input line 174.
+(biblatex)                at entry 'wingHappyEyeballsSuccess2012' on input line 175.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
@@ -1633,59 +1633,59 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 File: uio-fp-navn-bm.png Graphic file (type png)
 <use uio-fp-navn-bm.png>
-Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 174.
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 175.
 (pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
 [11
 
 ]
 File: uio-fp-navn-bm.png Graphic file (type png)
 <use uio-fp-navn-bm.png>
-Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 179.
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 180.
 (pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
-<withhe.pdf, id=194, 307.90031pt x 112.92188pt>
+<withhe.pdf, id=200, 307.90031pt x 112.92188pt>
 File: withhe.pdf Graphic file (type pdf)
 <use withhe.pdf>
-Package pdftex.def Info: withhe.pdf  used on input line 179.
+Package pdftex.def Info: withhe.pdf  used on input line 180.
 (pdftex.def)             Requested size: 358.50229pt x 131.48914pt.
 
 
 File: uio-fp-navn-bm.png Graphic file (type png)
 <use uio-fp-navn-bm.png>
-Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 179.
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 180.
 (pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
 [12
 
  <./withhe.pdf>]
 File: uio-fp-navn-bm.png Graphic file (type png)
 <use uio-fp-navn-bm.png>
-Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 185.
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 186.
 (pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
-<sfblocking.pdf, id=236, 685.05937pt x 419.31656pt>
+<sfblocking.pdf, id=242, 685.05937pt x 419.31656pt>
 File: sfblocking.pdf Graphic file (type pdf)
 <use sfblocking.pdf>
-Package pdftex.def Info: sfblocking.pdf  used on input line 185.
+Package pdftex.def Info: sfblocking.pdf  used on input line 186.
 (pdftex.def)             Requested size: 318.67209pt x 195.05695pt.
 
-Overfull \vbox (8.08754pt too high) detected at line 185
+Overfull \vbox (8.08754pt too high) detected at line 186
  []
 
 
 
 File: uio-fp-navn-bm.png Graphic file (type png)
 <use uio-fp-navn-bm.png>
-Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 185.
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 186.
 (pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
 [13
 
  <./sfblocking.pdf>]
 File: uio-fp-navn-bm.png Graphic file (type png)
 <use uio-fp-navn-bm.png>
-Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 197.
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 198.
 (pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
 
 
 Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'bajpaiMeasuringEffectsHappy2016' on input line 197.
+(biblatex)                at entry 'bajpaiMeasuringEffectsHappy2016' on input line 198.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
@@ -1698,19 +1698,19 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 File: uio-fp-navn-bm.png Graphic file (type png)
 <use uio-fp-navn-bm.png>
-Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 197.
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 198.
 (pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
 [14
 
 ]
 File: uio-fp-navn-bm.png Graphic file (type png)
 <use uio-fp-navn-bm.png>
-Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 211.
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 212.
 (pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
 
 
 Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'schinaziHappyEyeballsVersion2017' on input line 211.
+(biblatex)                at entry 'schinaziHappyEyeballsVersion2017' on input line 212.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
@@ -1723,38 +1723,81 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 File: uio-fp-navn-bm.png Graphic file (type png)
 <use uio-fp-navn-bm.png>
-Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 211.
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 212.
 (pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
 [15
 
 ]
 File: uio-fp-navn-bm.png Graphic file (type png)
 <use uio-fp-navn-bm.png>
-Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 220.
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 217.
 (pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
-LaTeX Font Info:    Font shape `T1/NotoSans-TLF/m/n' will be
-(Font)              scaled to size 17.27788pt on input line 220.
+<hev2.pdf, id=275, 614.295pt x 794.97pt>
+File: hev2.pdf Graphic file (type pdf)
+<use hev2.pdf>
+Package pdftex.def Info: hev2.pdf  used on input line 217.
+(pdftex.def)             Requested size: 358.50229pt x 463.94566pt.
+
+Overfull \vbox (276.97626pt too high) detected at line 217
+ []
+
 
 
 File: uio-fp-navn-bm.png Graphic file (type png)
 <use uio-fp-navn-bm.png>
-Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 220.
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 217.
 (pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
 [16
+
+ <./hev2.pdf>]
+File: uio-fp-navn-bm.png Graphic file (type png)
+<use uio-fp-navn-bm.png>
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 230.
+(pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
+
+
+Package biblatex Warning: Using fallback definition for \mkbibdateshort.
+(biblatex)                The command should be defined in the .lbx file.
+(biblatex)                If you see this message, the .lbx file could not be
+(biblatex)                loaded, is faulty or does not contain a definition
+(biblatex)                for \mkbibdateshort.
+
+
+
+File: uio-fp-navn-bm.png Graphic file (type png)
+<use uio-fp-navn-bm.png>
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 230.
+(pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
+[17
 
 ]
 File: uio-fp-navn-bm.png Graphic file (type png)
 <use uio-fp-navn-bm.png>
-Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 224.
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 238.
+(pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
+LaTeX Font Info:    Font shape `T1/NotoSans-TLF/m/n' will be
+(Font)              scaled to size 17.27788pt on input line 238.
+
+
+File: uio-fp-navn-bm.png Graphic file (type png)
+<use uio-fp-navn-bm.png>
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 238.
+(pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
+[18
+
+]
+File: uio-fp-navn-bm.png Graphic file (type png)
+<use uio-fp-navn-bm.png>
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 242.
 (pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\translate ' on input line 224.
+(hyperref)                removing `\translate ' on input line 242.
 
 
 Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'bajpaiMeasuringEffectsHappy2016' on input line 224.
+(biblatex)                at entry 'bajpaiMeasuringEffectsHappy2016' on input line 242.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdatelong.
@@ -1765,21 +1808,21 @@ Package biblatex Warning: Using fallback definition for \mkbibdatelong.
 
 
 Package biblatex Warning: Bibliography string 'july' untranslated
-(biblatex)                at entry 'bajpaiMeasuringEffectsHappy2016' on input line 224.
+(biblatex)                at entry 'bajpaiMeasuringEffectsHappy2016' on input line 242.
 
 
 Package biblatex Warning: Bibliography string 'in' untranslated
-(biblatex)                at entry 'bajpaiMeasuringEffectsHappy2016' on input line 224.
+(biblatex)                at entry 'bajpaiMeasuringEffectsHappy2016' on input line 242.
 
 
 Package biblatex Warning: Bibliography string 'pages' untranslated
-(biblatex)                at entry 'bajpaiMeasuringEffectsHappy2016' on input line 224.
+(biblatex)                at entry 'bajpaiMeasuringEffectsHappy2016' on input line 242.
 
 LaTeX Font Info:    Font shape `T1/NotoSans-TLF/m/sc' will be
-(Font)              scaled to size 10.94865pt on input line 224.
+(Font)              scaled to size 10.94865pt on input line 242.
 
 Package biblatex Warning: Bibliography string 'urlseen' untranslated
-(biblatex)                at entry 'bajpaiMeasuringEffectsHappy2016' on input line 224.
+(biblatex)                at entry 'bajpaiMeasuringEffectsHappy2016' on input line 242.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
@@ -1790,7 +1833,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'deeringInternetProtocolVersion2017' on input line 224.
+(biblatex)                at entry 'deeringInternetProtocolVersion2017' on input line 242.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdatelong.
@@ -1801,11 +1844,11 @@ Package biblatex Warning: Using fallback definition for \mkbibdatelong.
 
 
 Package biblatex Warning: Bibliography string 'july' untranslated
-(biblatex)                at entry 'deeringInternetProtocolVersion2017' on input line 224.
+(biblatex)                at entry 'deeringInternetProtocolVersion2017' on input line 242.
 
 
 Package biblatex Warning: Bibliography string 'urlseen' untranslated
-(biblatex)                at entry 'deeringInternetProtocolVersion2017' on input line 224.
+(biblatex)                at entry 'deeringInternetProtocolVersion2017' on input line 242.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
@@ -1816,7 +1859,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'fullerSupernettingAddressAssignment1992' on input line 224.
+(biblatex)                at entry 'fullerSupernettingAddressAssignment1992' on input line 242.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdatelong.
@@ -1827,11 +1870,29 @@ Package biblatex Warning: Using fallback definition for \mkbibdatelong.
 
 
 Package biblatex Warning: Bibliography string 'june' untranslated
-(biblatex)                at entry 'fullerSupernettingAddressAssignment1992' on input line 224.
+(biblatex)                at entry 'fullerSupernettingAddressAssignment1992' on input line 242.
 
 
 Package biblatex Warning: Bibliography string 'urlseen' untranslated
-(biblatex)                at entry 'fullerSupernettingAddressAssignment1992' on input line 224.
+(biblatex)                at entry 'fullerSupernettingAddressAssignment1992' on input line 242.
+
+
+Package biblatex Warning: Using fallback definition for \mkbibdateshort.
+(biblatex)                The command should be defined in the .lbx file.
+(biblatex)                If you see this message, the .lbx file could not be
+(biblatex)                loaded, is faulty or does not contain a definition
+(biblatex)                for \mkbibdateshort.
+
+
+Package biblatex Warning: Using fallback definition for \mkbibdateshort.
+(biblatex)                The command should be defined in the .lbx file.
+(biblatex)                If you see this message, the .lbx file could not be
+(biblatex)                loaded, is faulty or does not contain a definition
+(biblatex)                for \mkbibdateshort.
+
+
+Package biblatex Warning: Bibliography string 'urlseen' untranslated
+(biblatex)                at entry 'HeuristicsAlgorithmsPrioritize' on input line 242.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
@@ -1842,7 +1903,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'hindenInternetProtocolVersion1998' on input line 224.
+(biblatex)                at entry 'hindenInternetProtocolVersion1998' on input line 242.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdatelong.
@@ -1853,11 +1914,11 @@ Package biblatex Warning: Using fallback definition for \mkbibdatelong.
 
 
 Package biblatex Warning: Bibliography string 'december' untranslated
-(biblatex)                at entry 'hindenInternetProtocolVersion1998' on input line 224.
+(biblatex)                at entry 'hindenInternetProtocolVersion1998' on input line 242.
 
 
 Package biblatex Warning: Bibliography string 'urlseen' untranslated
-(biblatex)                at entry 'hindenInternetProtocolVersion1998' on input line 224.
+(biblatex)                at entry 'hindenInternetProtocolVersion1998' on input line 242.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
@@ -1875,29 +1936,11 @@ Package biblatex Warning: Using fallback definition for \mkbibdatelong.
 
 
 Package biblatex Warning: Bibliography string 'september' untranslated
-(biblatex)                at entry 'InternetProtocol1981a' on input line 224.
+(biblatex)                at entry 'InternetProtocol1981a' on input line 242.
 
 
 Package biblatex Warning: Bibliography string 'urlseen' untranslated
-(biblatex)                at entry 'InternetProtocol1981a' on input line 224.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Using fallback definition for \mkbibdateshort.
-(biblatex)                The command should be defined in the .lbx file.
-(biblatex)                If you see this message, the .lbx file could not be
-(biblatex)                loaded, is faulty or does not contain a definition
-(biblatex)                for \mkbibdateshort.
-
-
-Package biblatex Warning: Bibliography string 'urlseen' untranslated
-(biblatex)                at entry 'IPv4AddressReport' on input line 224.
+(biblatex)                at entry 'InternetProtocol1981a' on input line 242.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
@@ -1915,7 +1958,25 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 Package biblatex Warning: Bibliography string 'urlseen' untranslated
-(biblatex)                at entry 'ISPColumnNovember' on input line 224.
+(biblatex)                at entry 'IPv4AddressReport' on input line 242.
+
+
+Package biblatex Warning: Using fallback definition for \mkbibdateshort.
+(biblatex)                The command should be defined in the .lbx file.
+(biblatex)                If you see this message, the .lbx file could not be
+(biblatex)                loaded, is faulty or does not contain a definition
+(biblatex)                for \mkbibdateshort.
+
+
+Package biblatex Warning: Using fallback definition for \mkbibdateshort.
+(biblatex)                The command should be defined in the .lbx file.
+(biblatex)                If you see this message, the .lbx file could not be
+(biblatex)                loaded, is faulty or does not contain a definition
+(biblatex)                for \mkbibdateshort.
+
+
+Package biblatex Warning: Bibliography string 'urlseen' untranslated
+(biblatex)                at entry 'ISPColumnNovember' on input line 242.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
@@ -1926,7 +1987,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'nordmarkTransitionMechanismsIPv61996' on input line 224.
+(biblatex)                at entry 'nordmarkTransitionMechanismsIPv61996' on input line 242.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdatelong.
@@ -1937,11 +1998,11 @@ Package biblatex Warning: Using fallback definition for \mkbibdatelong.
 
 
 Package biblatex Warning: Bibliography string 'april' untranslated
-(biblatex)                at entry 'nordmarkTransitionMechanismsIPv61996' on input line 224.
+(biblatex)                at entry 'nordmarkTransitionMechanismsIPv61996' on input line 242.
 
 
 Package biblatex Warning: Bibliography string 'urlseen' untranslated
-(biblatex)                at entry 'nordmarkTransitionMechanismsIPv61996' on input line 224.
+(biblatex)                at entry 'nordmarkTransitionMechanismsIPv61996' on input line 242.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
@@ -1952,7 +2013,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'schinaziHappyEyeballsVersion2017' on input line 224.
+(biblatex)                at entry 'schinaziHappyEyeballsVersion2017' on input line 242.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdatelong.
@@ -1963,11 +2024,11 @@ Package biblatex Warning: Using fallback definition for \mkbibdatelong.
 
 
 Package biblatex Warning: Bibliography string 'december' untranslated
-(biblatex)                at entry 'schinaziHappyEyeballsVersion2017' on input line 224.
+(biblatex)                at entry 'schinaziHappyEyeballsVersion2017' on input line 242.
 
 
 Package biblatex Warning: Bibliography string 'urlseen' untranslated
-(biblatex)                at entry 'schinaziHappyEyeballsVersion2017' on input line 224.
+(biblatex)                at entry 'schinaziHappyEyeballsVersion2017' on input line 242.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
@@ -1978,7 +2039,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 
 Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'wingHappyEyeballsSuccess2012' on input line 224.
+(biblatex)                at entry 'wingHappyEyeballsSuccess2012' on input line 242.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdatelong.
@@ -1989,11 +2050,11 @@ Package biblatex Warning: Using fallback definition for \mkbibdatelong.
 
 
 Package biblatex Warning: Bibliography string 'april' untranslated
-(biblatex)                at entry 'wingHappyEyeballsSuccess2012' on input line 224.
+(biblatex)                at entry 'wingHappyEyeballsSuccess2012' on input line 242.
 
 
 Package biblatex Warning: Bibliography string 'urlseen' untranslated
-(biblatex)                at entry 'wingHappyEyeballsSuccess2012' on input line 224.
+(biblatex)                at entry 'wingHappyEyeballsSuccess2012' on input line 242.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdateshort.
@@ -2006,26 +2067,26 @@ Package biblatex Warning: Using fallback definition for \mkbibdateshort.
 
 File: uio-fp-navn-bm.png Graphic file (type png)
 <use uio-fp-navn-bm.png>
-Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 224.
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 242.
 (pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
-[17
+[19
 
 {/usr/share/texmf-dist/fonts/enc/dvips/noto/a_t3opuj.enc} </usr/share/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>]
 
 File: uio-fp-navn-bm.png Graphic file (type png)
 <use uio-fp-navn-bm.png>
-Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 224.
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 242.
 (pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
-[18
+[20
 
 
 ]
 
 File: uio-fp-navn-bm.png Graphic file (type png)
 <use uio-fp-navn-bm.png>
-Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 224.
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 242.
 (pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
-[19
+[21
 
 
 ]
@@ -2040,11 +2101,11 @@ Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 224.
 
 File: uio-fp-navn-bm.png Graphic file (type png)
 <use uio-fp-navn-bm.png>
-Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 225.
+Package pdftex.def Info: uio-fp-navn-bm.png  used on input line 243.
 (pdftex.def)             Requested size: 70.02798pt x 14.22636pt.
  (./main.toc)
 
-[20
+[22
 
 
 ] (./main.aux)
@@ -2053,24 +2114,24 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 0FB36D0FCEE62C07FC5BC298BB20C5CA;955.
+(rerunfilecheck)             Checksum: A5A17610EEDB291595F64AC799383082;1064.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 38769 strings out of 475171
- 777116 string characters out of 5767095
- 1548358 words of memory out of 5000000
- 60996 multiletter control sequences out of 15000+600000
+ 38795 strings out of 475171
+ 777613 string characters out of 5767095
+ 1548465 words of memory out of 5000000
+ 61016 multiletter control sequences out of 15000+600000
  651033 words of font info for 109 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  128i,16n,123p,1547b,1775s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/google/noto/NotoSans-Bold.pfb></usr/share/texmf-dist/fonts/type1/google/noto/NotoSans-Italic.pfb></usr/share/texmf-dist/fonts/type1/google/noto/NotoSans-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb></usr/share/texmf-dist/fonts/type1/public/newtx/txmiaX.pfb></usr/share/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
-Output written on main.pdf (20 pages, 602092 bytes).
+Output written on main.pdf (22 pages, 629675 bytes).
 PDF statistics:
- 365 PDF objects out of 1000 (max. 8388607)
- 258 compressed objects within 3 object streams
- 58 named destinations out of 1000 (max. 500000)
- 139 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 397 PDF objects out of 1000 (max. 8388607)
+ 283 compressed objects within 3 object streams
+ 64 named destinations out of 1000 (max. 500000)
+ 152 words of extra memory for PDF output out of 10000 (max. 10000000)
 
