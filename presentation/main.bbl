@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.3 $
+% $ biblatex bbl format version 3.2 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -18,8 +18,8 @@
 
 
 \refsection{0}
-  \datalist[entry]{nyt/global//global/global/global}
-    \entry{bajpaiMeasuringEffectsHappy2016}{inproceedings}{}{}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{bajpaiMeasuringEffectsHappy2016}{inproceedings}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=6ad6555a5fed5515cead75612a54ef4c}{%
            family={Bajpai},
@@ -42,12 +42,10 @@
       }
       \strng{namehash}{eeb284baa7ec1385874929c41b2cdcaf}
       \strng{fullhash}{eeb284baa7ec1385874929c41b2cdcaf}
-      \strng{fullhashraw}{eeb284baa7ec1385874929c41b2cdcaf}
       \strng{bibnamehash}{eeb284baa7ec1385874929c41b2cdcaf}
       \strng{authorbibnamehash}{eeb284baa7ec1385874929c41b2cdcaf}
       \strng{authornamehash}{eeb284baa7ec1385874929c41b2cdcaf}
       \strng{authorfullhash}{eeb284baa7ec1385874929c41b2cdcaf}
-      \strng{authorfullhashraw}{eeb284baa7ec1385874929c41b2cdcaf}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
@@ -74,7 +72,7 @@
       \verb /home/joar/Zotero/storage/582Q8AFV/Bajpai and Schönwälder - 2016 - Measuring the Effects of Happy Eyeballs.pdf
       \endverb
     \endentry
-    \entry{brunstromImplementingInterfacesTransport2025}{report}{}{}
+    \entry{brunstromImplementingInterfacesTransport2025}{report}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=9843cfd8391865c184f5c70856d97f01}{%
            family={Brunstrom},
@@ -112,12 +110,10 @@
       }
       \strng{namehash}{7a5ae3b767f665d42804f0e59aa34f85}
       \strng{fullhash}{4d84f5d8b5f59a173d632a8a5a79b659}
-      \strng{fullhashraw}{4d84f5d8b5f59a173d632a8a5a79b659}
       \strng{bibnamehash}{4d84f5d8b5f59a173d632a8a5a79b659}
       \strng{authorbibnamehash}{4d84f5d8b5f59a173d632a8a5a79b659}
       \strng{authornamehash}{7a5ae3b767f665d42804f0e59aa34f85}
       \strng{authorfullhash}{4d84f5d8b5f59a173d632a8a5a79b659}
-      \strng{authorfullhashraw}{4d84f5d8b5f59a173d632a8a5a79b659}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
@@ -141,7 +137,7 @@
       \verb /home/joar/Zotero/storage/VUR9XYFJ/Brunstrom et al. - 2025 - Implementing Interfaces to Transport Services.pdf
       \endverb
     \endentry
-    \entry{deeringInternetProtocolVersion2017}{report}{}{}
+    \entry{deeringInternetProtocolVersion2017}{report}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=ca230329284d4fb0ed5c9512b6f01ae7}{%
            family={Deering},
@@ -161,12 +157,10 @@
       }
       \strng{namehash}{f2a1b6a56c7bbe0c160344840fb60ff8}
       \strng{fullhash}{f2a1b6a56c7bbe0c160344840fb60ff8}
-      \strng{fullhashraw}{f2a1b6a56c7bbe0c160344840fb60ff8}
       \strng{bibnamehash}{f2a1b6a56c7bbe0c160344840fb60ff8}
       \strng{authorbibnamehash}{f2a1b6a56c7bbe0c160344840fb60ff8}
       \strng{authornamehash}{f2a1b6a56c7bbe0c160344840fb60ff8}
       \strng{authorfullhash}{f2a1b6a56c7bbe0c160344840fb60ff8}
-      \strng{authorfullhashraw}{f2a1b6a56c7bbe0c160344840fb60ff8}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -190,7 +184,7 @@
       \verb /home/joar/Zotero/storage/5TU22HVH/Deering and Hinden - 2017 - Internet Protocol, Version 6 (IPv6) Specification.pdf
       \endverb
     \endentry
-    \entry{fullerSupernettingAddressAssignment1992}{report}{}{}
+    \entry{fullerSupernettingAddressAssignment1992}{report}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=1b5b5435886729ac1e73db0819ca958b}{%
            family={Fuller},
@@ -222,12 +216,10 @@
       }
       \strng{namehash}{a74cd0492dfe9cd7c7173a72c6ffc0eb}
       \strng{fullhash}{c8bf7f87506e9f7156b98ce3509770c9}
-      \strng{fullhashraw}{c8bf7f87506e9f7156b98ce3509770c9}
       \strng{bibnamehash}{c8bf7f87506e9f7156b98ce3509770c9}
       \strng{authorbibnamehash}{c8bf7f87506e9f7156b98ce3509770c9}
       \strng{authornamehash}{a74cd0492dfe9cd7c7173a72c6ffc0eb}
       \strng{authorfullhash}{c8bf7f87506e9f7156b98ce3509770c9}
-      \strng{authorfullhashraw}{c8bf7f87506e9f7156b98ce3509770c9}
       \field{sortinit}{F}
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{extradatescope}{labelyear}
@@ -255,7 +247,7 @@
       \verb /home/joar/Zotero/storage/BFPKGZPC/Fuller et al. - 1992 - Supernetting an Address Assignment and Aggregatio.pdf
       \endverb
     \endentry
-    \entry{HeuristicsAlgorithmsPrioritize}{misc}{}{}
+    \entry{HeuristicsAlgorithmsPrioritize}{misc}{}
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{extradatescope}{labelyear}
@@ -271,7 +263,7 @@
       \verb /home/joar/Zotero/storage/5P6JIE5S/about.html
       \endverb
     \endentry
-    \entry{hindenInternetProtocolVersion1998}{report}{}{}
+    \entry{hindenInternetProtocolVersion1998}{report}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=15731384c9322099ff99912c4a4277a0}{%
            family={Hinden},
@@ -291,12 +283,10 @@
       }
       \strng{namehash}{93588a36ead44bc15a5bda5a358cecf6}
       \strng{fullhash}{93588a36ead44bc15a5bda5a358cecf6}
-      \strng{fullhashraw}{93588a36ead44bc15a5bda5a358cecf6}
       \strng{bibnamehash}{93588a36ead44bc15a5bda5a358cecf6}
       \strng{authorbibnamehash}{93588a36ead44bc15a5bda5a358cecf6}
       \strng{authornamehash}{93588a36ead44bc15a5bda5a358cecf6}
       \strng{authorfullhash}{93588a36ead44bc15a5bda5a358cecf6}
-      \strng{authorfullhashraw}{93588a36ead44bc15a5bda5a358cecf6}
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{extradatescope}{labelyear}
@@ -320,7 +310,7 @@
       \verb /home/joar/Zotero/storage/A85SBXP9/Hinden and Deering - 1998 - Internet Protocol, Version 6 (IPv6) Specification.pdf
       \endverb
     \endentry
-    \entry{InternetProtocol1981a}{report}{}{}
+    \entry{InternetProtocol1981a}{report}{}
       \list{institution}{1}{%
         {Internet Engineering Task Force}%
       }
@@ -345,7 +335,7 @@
       \verb /home/joar/Zotero/storage/CRIH38GN/1981 - Internet Protocol.pdf
       \endverb
     \endentry
-    \entry{IPv4AddressReport}{misc}{}{}
+    \entry{IPv4AddressReport}{misc}{}
       \field{sortinit}{I}
       \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
       \field{extradatescope}{labelyear}
@@ -361,7 +351,7 @@
       \verb /home/joar/Zotero/storage/NIW2QZDX/ipv4.potaroo.net.html
       \endverb
     \endentry
-    \entry{ISPColumnNovember}{misc}{}{}
+    \entry{ISPColumnNovember}{misc}{}
       \field{sortinit}{I}
       \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
       \field{extradatescope}{labelyear}
@@ -377,7 +367,7 @@
       \verb /home/joar/Zotero/storage/A3S6E7VT/v6perf.html
       \endverb
     \endentry
-    \entry{nordmarkTransitionMechanismsIPv61996}{report}{}{}
+    \entry{nordmarkTransitionMechanismsIPv61996}{report}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=2dfccd71bed900b47bfda5d2ada65f75}{%
            family={Nordmark},
@@ -397,12 +387,10 @@
       }
       \strng{namehash}{ccf5c622161763926806204c01a2ca08}
       \strng{fullhash}{ccf5c622161763926806204c01a2ca08}
-      \strng{fullhashraw}{ccf5c622161763926806204c01a2ca08}
       \strng{bibnamehash}{ccf5c622161763926806204c01a2ca08}
       \strng{authorbibnamehash}{ccf5c622161763926806204c01a2ca08}
       \strng{authornamehash}{ccf5c622161763926806204c01a2ca08}
       \strng{authorfullhash}{ccf5c622161763926806204c01a2ca08}
-      \strng{authorfullhashraw}{ccf5c622161763926806204c01a2ca08}
       \field{sortinit}{N}
       \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
       \field{extradatescope}{labelyear}
@@ -426,7 +414,7 @@
       \verb /home/joar/Zotero/storage/ECLXQRTS/Nordmark and Gilligan - 1996 - Transition Mechanisms for IPv6 Hosts and Routers.pdf
       \endverb
     \endentry
-    \entry{paulyHappyEyeballsVersion2025}{report}{}{}
+    \entry{paulyHappyEyeballsVersion2025}{report}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=ac0a7d691b742a1140a5c89205e46958}{%
            family={Pauly},
@@ -458,12 +446,10 @@
       }
       \strng{namehash}{4f15b10c2fc85aee0d5df33c693da39c}
       \strng{fullhash}{ee4d36fdfd6a1db2ac96ab37d6fb023f}
-      \strng{fullhashraw}{ee4d36fdfd6a1db2ac96ab37d6fb023f}
       \strng{bibnamehash}{ee4d36fdfd6a1db2ac96ab37d6fb023f}
       \strng{authorbibnamehash}{ee4d36fdfd6a1db2ac96ab37d6fb023f}
       \strng{authornamehash}{4f15b10c2fc85aee0d5df33c693da39c}
       \strng{authorfullhash}{ee4d36fdfd6a1db2ac96ab37d6fb023f}
-      \strng{authorfullhashraw}{ee4d36fdfd6a1db2ac96ab37d6fb023f}
       \field{sortinit}{P}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{extradatescope}{labelyear}
@@ -482,7 +468,7 @@
       \field{year}{2025}
       \field{urldateera}{ce}
     \endentry
-    \entry{sattlerLazyEyeInspection2025}{inproceedings}{}{}
+    \entry{sattlerLazyEyeInspection2025}{inproceedings}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=614378c8565369c7ee71923b3014c8ef}{%
            family={Sattler},
@@ -517,12 +503,10 @@
       }
       \strng{namehash}{9e8567d229b93300ba88151abc390b15}
       \strng{fullhash}{ef3b0aa72a452743892bbb11760b63b8}
-      \strng{fullhashraw}{ef3b0aa72a452743892bbb11760b63b8}
       \strng{bibnamehash}{ef3b0aa72a452743892bbb11760b63b8}
       \strng{authorbibnamehash}{ef3b0aa72a452743892bbb11760b63b8}
       \strng{authornamehash}{9e8567d229b93300ba88151abc390b15}
       \strng{authorfullhash}{ef3b0aa72a452743892bbb11760b63b8}
-      \strng{authorfullhashraw}{ef3b0aa72a452743892bbb11760b63b8}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
@@ -555,7 +539,7 @@
       \endverb
       \keyw{Computer Science - Networking and Internet Architecture}
     \endentry
-    \entry{schinaziHappyEyeballsVersion2017}{report}{}{}
+    \entry{schinaziHappyEyeballsVersion2017}{report}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=7144f6649664d719ca5849a34a99a89b}{%
            family={Schinazi},
@@ -575,12 +559,10 @@
       }
       \strng{namehash}{65e73d3f3d07e2e0a7530181ab576d7e}
       \strng{fullhash}{65e73d3f3d07e2e0a7530181ab576d7e}
-      \strng{fullhashraw}{65e73d3f3d07e2e0a7530181ab576d7e}
       \strng{bibnamehash}{65e73d3f3d07e2e0a7530181ab576d7e}
       \strng{authorbibnamehash}{65e73d3f3d07e2e0a7530181ab576d7e}
       \strng{authornamehash}{65e73d3f3d07e2e0a7530181ab576d7e}
       \strng{authorfullhash}{65e73d3f3d07e2e0a7530181ab576d7e}
-      \strng{authorfullhashraw}{65e73d3f3d07e2e0a7530181ab576d7e}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
@@ -605,7 +587,7 @@
       \verb /home/joar/Zotero/storage/G6GNZTE9/Schinazi and Pauly - 2017 - Happy Eyeballs Version 2 Better Connectivity Usin.pdf
       \endverb
     \endentry
-    \entry{wingHappyEyeballsSuccess2012}{report}{}{}
+    \entry{wingHappyEyeballsSuccess2012}{report}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=a441e37c808919dfe7820bf7dc78df03}{%
            family={Wing},
@@ -625,12 +607,10 @@
       }
       \strng{namehash}{aaa0ce6f1cb17957b71915aa816db18e}
       \strng{fullhash}{aaa0ce6f1cb17957b71915aa816db18e}
-      \strng{fullhashraw}{aaa0ce6f1cb17957b71915aa816db18e}
       \strng{bibnamehash}{aaa0ce6f1cb17957b71915aa816db18e}
       \strng{authorbibnamehash}{aaa0ce6f1cb17957b71915aa816db18e}
       \strng{authornamehash}{aaa0ce6f1cb17957b71915aa816db18e}
       \strng{authorfullhash}{aaa0ce6f1cb17957b71915aa816db18e}
-      \strng{authorfullhashraw}{aaa0ce6f1cb17957b71915aa816db18e}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{extradatescope}{labelyear}
